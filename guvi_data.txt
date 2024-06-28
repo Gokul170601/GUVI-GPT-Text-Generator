@@ -1,0 +1,1372 @@
+Overview of Guvi
+Guvi is an Indian ed-tech company that focuses on providing online coding courses and skill development programs. Founded with the mission to democratize access to technical education, Guvi aims to bridge the skills gap by offering affordable and accessible learning opportunities in programming and related fields.
+
+History and Founding
+Guvi was founded in 2011; 13 years ago (as a YouTube channel) 2014; 10 years ago (as a company) by Arun Prakash (founder & CEO) Sridevi Arun Prakash (co-founder)
+SP Balamurugan (co-founder). The company emerged in response to the growing demand for skilled software developers and the need for practical, job-oriented training in the tech industry. Initially starting with a small team and a handful of courses, Guvi quickly expanded its offerings and gained recognition for its innovative approach to online learning.
+
+Mission and Vision
+The mission of Guvi is to empower individuals with the skills they need to succeed in the digital economy. By making high-quality technical education accessible to everyone, regardless of their background or location, Guvi aims to create a more inclusive and skilled workforce. The vision is to become a leading platform for tech education in India and beyond, fostering innovation and excellence in programming.
+
+Courses and Programs
+Guvi offers a diverse range of courses and programs designed to cater to learners at different stages of their coding journey. These include:
+Programming Languages: Courses covering popular programming languages such as Python, Java, JavaScript, C++, etc.
+Web Development: Courses focusing on frontend (HTML/CSS, JavaScript frameworks) and backend (Node.js, Django, Flask) development.
+Data Science and Machine Learning: Programs that teach data analysis, machine learning algorithms, and AI applications.
+Competitive Programming: Training for competitive programming contests such as ACM ICPC, Codeforces, etc.
+Job-Oriented Skills: Courses aimed at preparing learners for specific job roles in software development and IT.
+Certification Programs: Guvi offers certifications upon course completion, which can enhance a learner's resume and credibility in the job market.
+
+Teaching Methodology
+Guvi employs a combination of video lectures, hands-on coding exercises, quizzes, and projects to facilitate learning. The platform emphasizes practical application and problem-solving skills, encouraging learners to build real-world projects and collaborate on coding challenges. Interactive coding environments and mentorship support are also provided to help learners overcome obstacles and reinforce their understanding of programming concepts.
+
+Technology Stack
+Behind Guvi's platform is a robust technology stack that supports seamless course delivery, student engagement, and performance tracking. This includes:
+Learning Management System (LMS): A customized platform for hosting courses, managing user accounts, and tracking progress.
+Video Streaming Infrastructure: To deliver high-quality instructional videos with minimal latency.
+Coding Sandbox: An online IDE (Integrated Development Environment) where learners can practice coding exercises and work on projects.
+Data Analytics and Insights: Tools for analyzing student performance and course effectiveness, enabling continuous improvement of teaching methodologies.
+
+Impact and Reach
+Guvi has made significant strides in democratizing technical education across India and beyond. Key indicators of its impact include:
+Learner Base: Thousands of students and professionals have enrolled in Guvi courses, benefiting from its accessible and affordable learning model.
+Employability: Many Guvi alumni have successfully transitioned into tech careers or upskilled within their current roles, thanks to the practical skills acquired through the platform.
+Industry Partnerships: Collaborations with tech companies and educational institutions to enhance curriculum relevance and job placement opportunities for learners.
+
+Future Directions
+Looking ahead, Guvi aims to expand its course offerings, deepen its engagement with corporate partners for skill development initiatives, and further enhance its technology platform to deliver an even more personalized learning experience. The company continues to innovate in response to industry trends and learner feedback, ensuring its programs remain relevant and effective in an ever-evolving tech landscape.
+
+Courses and Tracks
+Guvi’s offerings are structured to cater to a wide range of learners, from beginners to advanced programmers. The courses are grouped into different tracks:
+Foundational Courses: These are designed for beginners and cover basic programming concepts and languages such as Python, JavaScript, and HTML/CSS.
+Advanced Programming: For learners with some experience, advanced courses delve deeper into languages like Java, C++, and frameworks such as React, Angular, and Node.js.
+Full-Stack Development: Comprehensive programs that cover both frontend and backend development, including database management and deployment practices.
+Data Science and AI: These courses focus on data analysis, machine learning, and artificial intelligence, using tools and languages such as R, Python, TensorFlow, and Keras.
+DevOps and Cloud Computing: Courses that teach deployment, cloud services (AWS, Azure), and continuous integration/continuous deployment (CI/CD) practices.
+Cybersecurity: Programs that cover network security, ethical hacking, and information security management.
+
+Career Services
+To help learners transition into the workforce, Guvi provides several career services:
+Resume Building: Guidance on crafting a professional resume that highlights relevant skills and projects.
+Interview Preparation: Mock interviews, commonly asked questions, and strategies to excel in technical and HR rounds.
+Job Placement Assistance: Partnerships with tech companies to facilitate job placements for graduates.
+
+Unique Features
+Vernacular Learning
+One of Guvi’s standout features is its commitment to vernacular learning. Recognizing the diversity of India’s linguistic landscape, Guvi offers courses in multiple regional languages such as Tamil, Telugu, and Hindi. This approach helps break down language barriers and makes technical education accessible to a broader audience.
+
+Interactive Learning Environment
+Guvi’s platform integrates several tools to enhance interactivity and engagement:
+Codekata: An interactive coding platform where learners can practice coding problems and improve their problem-solving skills.
+Webkata: A tool for practicing web development skills by solving real-world web design and development challenges.
+MicroARC: Short, interactive assessments to gauge understanding and reinforce learning after each module.
+
+Mentorship and Community Support
+Guvi places a strong emphasis on mentorship and community. Learners have access to mentors who provide guidance, answer questions, and offer feedback on projects. The Guvi community, comprising students, alumni, and instructors, fosters peer-to-peer learning and collaboration through forums, study groups, and coding challenges.
+
+Success Stories
+Guvi has a rich repository of success stories, showcasing the transformative impact of its programs. Examples include:
+Career Switchers: Individuals from non-technical backgrounds who have transitioned into successful tech careers after completing Guvi courses.
+Skill Enhancers: Professionals who have upskilled through Guvi’s advanced courses, leading to promotions and new job opportunities.
+Entrepreneurs: Learners who have used their newly acquired skills to launch startups and innovative tech solutions.
+
+Community Engagement and Social Impact
+Guvi actively engages with the broader community through various initiatives:
+Hackathons and Coding Competitions: Regular events that encourage innovation, teamwork, and practical application of coding skills.
+Workshops and Webinars: Free or low-cost sessions on trending tech topics, career advice, and skill development.
+CSR Initiatives: Programs aimed at empowering underprivileged communities with free or subsidized access to tech education.
+
+Future Prospects
+Looking ahead, Guvi has several strategic plans to expand and enhance its impact:
+Global Expansion: Plans to offer courses in additional international languages and expand its reach to learners outside India.
+AI-Driven Personalization: Incorporating artificial intelligence to personalize learning paths based on individual progress, preferences, and performance.
+Enhanced Industry Collaboration: Strengthening partnerships with tech companies to align course content with industry needs and increase job placement opportunities.
+Offline Bootcamps: Launching offline, immersive bootcamps in major cities to complement online learning with in-person instruction and networking opportunities.
+
+
+GUVI: An Ed-Tech Platform for Tech Skill Development
+Background: GUVI is an Indian educational technology (Ed-Tech) company incubated by IIT Madras and IIM Ahmedabad (https://www.guvi.in/).
+Focus: Their primary focus is on providing tech skills training to individuals.
+
+Target Audience: GUVI caters to a wide range of learners, including:
+Programmers seeking to expand their skillsets
+Students aiming for careers in data science or software development
+Working professionals looking to upskill in relevant tech domains
+
+Course Offerings (Based on Web Search):
+Programming Languages: Courses likely include Python, Java, JavaScript, HTML, CSS, and more.
+Data Science & Analytics: Training might cover Python for data science, R programming, data analysis with tools like Pandas and Power BI, machine learning, and natural language processing (NLP).
+Other Tech Skills: Web development, automation testing, and big data engineering could be potential areas covered by GUVI.
+
+Content Delivery: GUVI's website mentions Zen Classes, which suggests live online classes. They might also offer self-paced learning materials.
+
+Practice & Projects: The platform likely incorporates coding practice exercises and projects to solidify learning.
+
+Language Support: An interesting aspect is GUVI's focus on offering courses in vernacular languages, catering to a wider Indian audience.
+
+Additional Points to Consider:
+Certification: GUVI might offer certificates upon course completion, but this needs verification on their website.
+Career Assistance: Their collaboration with Skill India suggests a possible focus on job placement, but confirmation is needed from GUVI's resources.
+
+Recommendations:
+Visit the GUVI website (https://www.guvi.in/) for the latest information on course offerings, pricing, and learning approach.
+Look for student reviews or testimonials to get a sense of the learning experience at GUVI.
+Consider your specific learning goals and compare GUVI with other Ed-Tech platforms before making a decision.
+Remember, this information is based on publicly available data. It's always wise to consult the official GUVI website for the most up-to-date and accurate details.
+
+GUVI (named as an acronym of Grab Your Vernacular Imprint) is an online platform to learn computer programming based in India. It offers free and paid coding courses to students and working professionals in Indian languages such as Hindi, Telugu, Kannada, Bengali, Tamil, and in English. GUVI's mission is "to make technical education available to all in their native languages"
+
+History
+GUVI was started as a YouTube channel in 2011. The channel posted video tutorials, courses, and practice materials created by Arun Prakash, Sridevi Arun Prakash, and SP Balamurugan. The videos were posted in Tamil, Telugu, and Marathi, with the goal of reaching people not fluent in English.
+The trio quit their job in 2014 and started GUVI as a company. Seeded with an initial capital of ₹1,000,000, the start-up was incubated at the Rural Technology and Business Incubator (RTBI) based out of IIT Madras. The start-up raised seed funding of ₹500,000, and officially launched in November 2014.
+GUVI received its first institutional round of funding of ₹10,000,000, from US-based Gray Matters Capital's edLABS in April 2019.It raised ₹60,000,000 in its pre-series A round of funding from Education Catalyst Fund, an education-focused venture capital fund managed by CBA Capital, in April 2020
+
+Events
+GUVI conducted All India Robotic Process Automation Skillathon, with UiPath, in June 2020, to provide students an opportunity to get exposure to robotic process automation. The event included over 400 colleges across India and over 60,000 participants
+GUVI offered free online coding courses in March 2020 (during the COVID-19 pandemic lockdown in India).
+
+Recognition and awards
+GUVI was supported by Google's Launchpad Accelerator Program in 2017.
+
+GUVI In A Glance
+Grab Ur Vernacular Imprint-GUVI (an IIT-Madras Incubated Company) is World’s First Vernacular Ed-Tech Learning Platform. Introduced by Ex PayPal Employees, GUVI empowers students to master programming skills with the comfort of their native language. Its mission is to impart technical skills to all through focussed pedagogical tool
+GUVI has a vast library of free and paid courses across various domains. Additionally, GUVI also offers advanced upskilling through their premium courses that are available at minimal cost, so that everybody gets equal access to quality tech education.
+Founded Year : 2014
+Location : Chennai, India
+Company Stage :Acquired
+Total Funding : $3.89M
+Latest Funding Round : $1.9M, Seed, Sep 19, 2022
+Employee Count : 484 as on Aug 31, 2023 
+Valuation : $16.8M as on Sep 19, 2022
+Annual Revenue : $4.28M as on Mar 31, 2023
+Competitor Rank : 1st out of 15 competitors with a Tracxn Score of 70/100 
+Acquisitions : GUVI has not made any acquisitions yet
+Investments : GUVI has not made any investments yet
+Reputed Edtech platform for Vernacular Languages
+GUVI is an IIT-M & IIM-A incubated Ed-tech company that focuses on providing personalized learning solutions for its learners right from online learning,
+upskilling & recruitment opportunities in world-class quality. And, bestow tech-skills with the comfort of your native language
+
+About IIT MADRAS 
+The Indian Institute of Technology Madras or IIT Madras is recognized globally and holds the laureate of being the No.1 engineering university in India. With a faculty of international fame, bolstered with a highly motivated and profound student community, IIT Madras stands true as an Institute of Eminence. It is a public technical 
+and research university established by the Government of India.
+
+GUVI - Grab Ur Vernacular Imprint
+Top Vernacular EdTech Company incubated by IIT-M & IIM-A
+Delivering world-class learning experience by providing highly-effective & finest learning solutions, breaking the language barrier in tech-learning to more than 2 million learners worldwide.
+GUVI is an IIT-M & IIM-A incubated Ed-tech company that focuses on providing personalized learning solutions for its learners right from online learning, upskilling & recruitment opportunities in world-class quality. And, bestow tech-skills with the comfort of your native language.
+
+Mission : To democratize tech education worldwide by meeting the standards of the EdTech industry.
+Vision  : To shape lives by bestowing high-end tech skills to learners in their native languages & Connect the tech career aspirants with the corporate industry.
+
+story of guvi: 
+2011-Started as a YouTube channel - 'GUVI Sharing' with technical videos instructed in native languages like Tamil, Telugu & Marathi for enhancing the learning experience.
+2014-Officially Registered as an EdTech company, named GUVI GEEK NETWORK PRIVATE LIMITED & incubated by eminent institutions such as IIT-M.
+2015-Selected as Technical Content Partner for IIT-M QEEE(Quality Enhancement in Engineering Education) & stood as the Winner at 'Chennai Crowd Product Pitch'.
+2016-Collaborated with Anna University for Faculty Development Training Programme (FDTP) for the enhancement of 550 Engineering Colleges in Tamilnadu.
+2017-GUVI got selected as One of the Top 10 startups led by Women in India hosted by Google Launchpad & actively got engaged in the Google for Startups Accelerator.
+2018-Conducted Asia's 2nd largest AI Hackathon 'Code In India' (500+ participants) in the HCL Madurai, Selected among the Top 50 startups in India by IIGP 2.0(Tata Trusts), Selected for JioGenNext Startup Accelerator & Invited to Google I/O meet in California.
+2019-Won Equity Free Seed Fund at EMPOWER (Accelerating Women Entrepreneurship), Incubated by IIM-A CIIE with Grant funding & Pre-series funding from Gray Matters Capital.
+2020-Raised Pre-series funding & got backed by CBA Capital & Surpassed 5 Lakhs + user base with standard quality in EdTech.
+2021-Created Guinness World Record through AI-for-India 1.0, crossed Milestone with 1 Million+ learners, Recognised by HolonIQ as One of the 100 Most Promising EdTechs (South Asia), & Officially partnered with UiPath & became 'Google for Education' Partner.
+2022-Proudly Associated with the HCL Group, Awarded 'Most Trusted Vernacular Edutech Brand' by Zee Digital & Selected as the No.1 Top EdTech company by TNSDC ("Naan Mudhalvan" Initiative).
+2023-Awarded 'Best Online Personalized Learning Platform' in Education Innovative Awards by Entrepreneur India, Empowered 30K+ women with Tech skills through 'AI-for-Women' initiative & Achieved 2 Million+ Learners within a year.
+
+Core Values of guvi
+Passion
+An unwavering passion to bring tech closer to learners from all walks of life. We get fueled on the idea of driving innovation while revolutionizing tech learning by turning language into a medium from a barrier.
+Team Work
+We are proud members of a technically steered and uplifting team that comes together to create a difference in the lives of millions of tech learners. It takes an idea to start, it takes a team to build all things phenomenal.
+Creativity
+The need to be creative to make learning intriguing and comprehensible is a major pillar of GUVI's functioning. We love bringing creative solutions to life to serve uniqueness and unparalleled experience to our learners.
+Simplicity
+A simple idea can change the world. We stick to that simplicity to achieve the biggest of goals. At GUVI, we believe in simplifying tech and its concepts which we use to build transformational courses for everyone.
+Customer Focus
+At GUVI, our prime priority is to serve the users and fulfill their needs without compromising on quality. We want our products to provide exceptional value and reflect the learner's interest at the heart of curation.
+
+Founding Team
+founders of guvi
+Mr. ArunPrakash M(Founder & CEO),Late Mrs. Sridevi Arunprakash(Co-Founder),Mr. Bala Murugan SP(Co-Founder)
+
+We are proud of... 
+2985116-Learners,194-Mentors,35541349-Lines of Code Submission,1673-Videos,72%-of Learners complete their courses within 3 months
+78%-of Learners could recollect the concepts faster,84%-of Learners have better understanding over complex topics
+
+What GUVI offers you?
+Self Paced Courses - Learn & Upskill via Online Courses
+LIVE Classes - Live Classes offering Guaranteed Job Placement Support
+Interactive Practice Platforms - Learn through Hands-on Coding Experience
+For Corporates - Meet your hiring needs at ease
+Learn. Practice. Earn. Have Fun!
+
+Codekata
+An interactive platform for programming practice with 1500+ coding problems curated by the best programming veterans in the IT industry.
+CodeKata tracks the performance & develops coding profile for the coders to showcase their skillset in job recruitment process. Boost up your potential to crack coding
+interviews by solving CodeKata problems.
+
+Webkata
+WebKata is the developing practice platform for beginners, built with top-notch web development problem statements focusing on Modern HTML, CSS & JavaScript.
+Further, advanced projects can be developed onGitHub. Accelerate your Web Development skills through WebKata assignments.
+
+Debugging
+Debugging a series of programs curated by experts from the industry. Practising on Debugging will help you get started and be familiarised with programming.
+We will recommend your profile to recruiting companies based on your performance in debugging. You can be a better programmer and crack interviews by completing Debugging.
+
+IDE
+GUVI IDE is an Integrated Development Environment that lets you write, edit, run, test & debug your code. You can fix your code with the debugger supported by language like JavaScript, Python3 & Ruby. While, you can write code in 20 different programming languages.
+
+Rewards
+Rewards are for GUVI users to redeem the points earned through CodeKata, WebKata, & through Referral. Exciting rewards can be earned just by referring GUVI to family, friends & others.
+
+Referral
+Referral scheme of GUVI is as simple as a click. Share the referral code with your peers, family & friends to earn points and further, redeem those points for unbelievable rewards like iPhone, Amazon Vouchers, etc.
+
+Forum
+Forum is technical community platform for students, professionals, or any tech-geek to discuss the latest technical doubts, software upgradations or any trending tech news. Our dedicated tech-experts will address all the tech-queries within 48hrs.
+
+Zen class
+Zen Class is one of the industry’s leading Project Based Career Programs offered by GUVI that promises Placement Guidance on completing the course.  Designed by our Founders (Ex-Paypal Employees), GUVI also offers mentoring through experts from companies like Google, Microsoft, Flipkart, Zoho & Freshworks.
+about zen class
+Zen Class is one of the industry’s leading Project Based Career Programs offered by GUVI that promises Placement Guidance on completing the course.  Designed by our Founders (Ex-Paypal Employees), GUVI also offers mentoring through experts from companies like Google, Microsoft, Flipkart, Zoho & Freshworks.
+
+Tech Career Programs
+Mentors from Top Global Product companies.
+A Portfolio of Real-world Projects.
+Globally Recognized Certification.
+
+What does GUVI do?
+Developer of vernacular-based hyperlocal mentoring platform for providing online programming. Some of the courses offered by the platform include data structures, C, C++, Java, Python, ROR, machine learning, R programming, IOS, and Android, among others. The courses are in the form of video lectures focusing on context-based learning, short notes, coding playground, assignment, and assessments. These video lectures are in vernacular languages, while the text contents are in English and the platform provides users with the option to choose the language of their choice as well.
+
+What sectors and market segments does GUVI operate in?
+GUVI serves in the B2C, B2B space in the EdTech market segments.
+
+Who are the CEO, Founders and Directors of GUVI?
+Murugasan Arun Prakash - Co-Founder & CEO,
+Balamurugan SP -  Co-Founder,
+Sridevi Arunprakash - Co-Founder, 
+Abhinav Ghosh - Director,
+Pawan Kumar Danwar - Director
+
+How many employees does GUVI have?
+GUVI has 484 employees as of Aug 23. The total employee count is 191.6% more than what it was in Aug 22.
+
+Competitors of GUVI
+GUVI has a total of 15 competitors and it ranks 1 st among them.
+
+Course Curriculum: Evaluate the course curriculum to ensure it covers relevant and uptodate topics in the respective field.
+Mentor Support: Guvi mentors play a crucial role in guiding and supporting students throughout the course. Look for feedback or reviews regarding the mentorship provided by GUVI.
+Project Portfolio: GUVI offers students the opportunity to build a portfolio of projects, which can be valuable when showcasing skills to potential employers. Consider the quality and diversity of the projects offered.
+PreBootcamp Training: GUVI conducts a prebootcamp training phase to assess students' skills and determine program placement. This can be an indicator of their commitment to ensuring students are placed in the appropriate course level.
+
+M. Arunprakash
+Founder & CEO of GUVI
+M. Arunprakash, Founder & CEO of GUVI. Technologist with 19yrs of Handson Programming experience and a solid expertise in Python. Built products from the scratch and have handled high volume scalable systems.
+GUVI is an IITM Incubated Edtech company providing Employability oriented technology courses through their Gamified online platform. These courses are also streamed in Vernacular languages based on the learner's preference. Have skilled more than 1.2 Million learners across the country. The AI powered platform makes the learning gamified and connects the learners with the right jobs
+How many funding rounds does GUVI have.
+GUVI has total 9 funding rounds:
+8 Seed rounds
+1 Grant (prize money) round
+Which was the largest funding round of GUVI.
+Guvi largest funding round was a Seed round held on Sep 19, 2022 for $1.9M.
+What is the valuation of GUVI.
+Guvi valuation is $16.8M as on Sep 19, 2022.
+GUVI Investors
+Who are the lead investors in Guvi latest funding round.
+HCL is the lead investor in Guvi latest funding round held on Sep 19, 2022.
+How many investors does GUVI have.
+GUVI has total 13 investors.
+10 are institutional investors including Gray Matters Capital and 9 others.
+3 are Angel investors including Sajin Gangadharan and 2 others.
+List of Guvi institutional investors
+HCL, located in Noida (India), made their first investment in GUVI on Sep 19, 2022 in its Seed round.
+Education Catalyst Fund, located in Bengaluru (India), made their first investment in GUVI on Jul 01, 2021 in its Seed round.
+Corporate Business Advisors, located in Bengaluru (India), made their first investment in GUVI on Jan 14, 2020 in its Seed round.
+Tencent, located in Shenzhen (China), made their first investment in GUVI on Jan 14, 2020 in its Seed round.
+Bharat Inclusion Initiative, located in Ahmedabad (India), made their first investment in GUVI on Oct 01, 2019 in its Seed round.
+Gray Matters Capital, located in Atlanta (United States), made their first investment in GUVI on Apr 26, 2018 in its Angel round.
+View all GUVI Investors
+What does GUVI do.
+Developer of vernacularbased hyperlocal mentoring platform for providing online programming. Some of the courses offered by the platform include data structures, C, C++, Java, Python, ROR, machine learning, R programming, IOS, and Android, among others. The courses are in the form of video lectures focusing on contextbased learning, short notes, coding playground, assignment, and assessments. These video lectures are in vernacular languages, while the text contents are in English and the platform provides users with the option to choose the language of their choice as well.
+
+GUVI, an IIT Madrasincubated edtech startup, has launched Large Language Model (LLM) features to support vernacular learners and hosted the 'Naan Mudhalvan Anna University GUVI Tamil Nadu Coder's Premier League,' with over 82,500 engineering students participating. The initiative aims to empower students in Tamil Nadu through generative AI, enhancing inclusivity and accessibility in technical learning.
+GUVI may be growing as it has been reported to have evolved from a YouTube channel to a startup valued at Rs.150 crore. This valuation indicates a significant level of investment and confidence in the company's business model and potential. Furthermore, the company's association with IIT Madras as an incubated entity suggests access to resources and expertise that could facilitate its growth in the elearning sector. The elearning platform's financial growth is a strong indicator of its expansion and success in the internet industry.
+
+GUVI, an IIT Madrasincubated edtech startup, has launched Large Language Model (LLM) features to support vernacular learners and hosted the 'Naan Mudhalvan Anna University GUVI Tamil Nadu Coder's Premier League,' with over 82,500 engineering students participating. The initiative aims to empower students in Tamil Nadu through generative AI, enhancing inclusivity and accessibility in technical learning.
+GUVI may be growing as it has been reported to have evolved from a YouTube channel to a startup valued at Rs.150 crore. This valuation indicates a significant level of investment and confidence in the company's business model and potential. Furthermore, the company's association with IIT Madras as an incubated entity suggests access to resources and expertise that could facilitate its growth in the elearning sector. The elearning platform's financial growth is a strong indicator of its expansion and success in the internet industry.
+This workshop will empower the learners to build novice skills in the python programming language with the basic fundamentals & important core concepts.
+
+The following are the key takeaways of the GUVI’s Python Workshop:
+certificate
+A brief introduction to Python
+Learn the Programming Structure of python
+Learn all the Conditional and Looping statements
+Get to know the data structures in python (Lists, tuple, sets, dictionary)
+Learn what is an Application server
+Scratch the surface of the Flask with a Hello World Program
+Arun Prakash,
+Founder & Chief Technology Officer of GUVI.
+A versatile technologist with 17+ years of technical experience with top organizations like PayPal, Symantec & Honeywell.
+Programming expertise with over 2 lakh efficient lines of code.
+Built 7 products from an idea to a Fullfledged product stage.
+Mentored 1000+ students
+200+ Industryspecific training sessions taken
+Open source contributor
+Our Courses are designed by IIT professors & industry experts
+Over 10,000 successful placements since establishment.
+Secured trust of 4.7+ lakh programmers by bestowing them with extensive coding knowledge.
+200+ companies found GUVI viable for bridging the talent paucity faced by the software industry
+1000+ colleges believe in our focus on thriving the career of our learners by succeeding them with Jobready skills.
+Learning technology made easy with 90+ courses in 5 different languages
+Power hub of over 90 indemand programming courses.
+CodeKata  An extensive coding practise platform with a 1000+ question library.
+Our Courses are designed by IIT professors & industry experts
+Over 10,000 successful placements since establishment.
+Secured trust of 4.7+ lakh programmers by bestowing them with extensive coding knowledge.
+200+ companies found GUVI viable for bridging the talent paucity faced by the software industry
+1000+ colleges believe in our focus on thriving the career of our learners by succeeding them with Jobready skills.
+Learning technology made easy with 90+ courses in 5 different languages
+Power hub of over 90 indemand programming courses.
+CodeKata  An extensive coding practise platform with a 1000+ question library.
+Why GUVI.
+An IITMadras & IIMAhmedabad incubated company, GUVI is the World’s First Vernacular EduTech Learning Platform, which helps students master programming skills with the comfort of their native language.
+GUVI is a premium educational application that provides you with a library of IT reference materials. Here, you can learn about the latest IT skills translated into a wide range of Vernacular languages. The app grants you access to wellstructured course content ranging from Angular, Machine Learning, Deep Learning, and more.
+
+With the GUVI app’s help, you can also learn about solving problems in software development using the Codekata principle. Plus, it offers the chance to view a competitive programming setting with handpicked questions to improve your IT knowledge and skills.
+
+Explore a worldclass learning experience
+If you’re looking for an edtech program that can break language barriers in the field of programming, then you’re in the right place. GUVI is a revolutionary platform that makes tech learning accessible in multiple Vernacular languages, giving everyone the chance to study and know more about IT values. It provides you with multiple courses that are constantly updated, ensuring that you can stay updated with the latest technologies.
+
+This particular platform also features Codekata, an interactive outlet that can help you practice various programming principles. With over 1,000 programming problems carefully selected by veterans, this process proves to be more than just a practice tool. It can track your performance, develop a customized coding profile, and offer hints to improve your skills. You can conveniently use it to prepare for coding interviews because it can boost your confidence.
+
+However, what sets this program apart from other edtech platforms is its personalized approach; all of your learning activities, data, and progress are meticulously tracked. Plus, it creates a detailed user activity profile that you can share with inapp recruiters offering exciting job opportunities. However, users need to know that you must have 100% progression for all quizzes and submissions to get a GUVI certification.
+Access various courses through GUVI
+Overall, the GUVI edtech platform is the ideal choice for those who want to enhance their skills in the field of Information Technology. With courses in different Vernacular languages, soughtafter topics, the latest technologies, Codekata, and a personalized approach, rest assured that the app can significantly improve your abilities. The only downside is that to get a GUVI certification, you must have 100% in all available quizzes and submissions.
+
+Guvi (Grab Ur Vernacular Imprint), a platform providing online education and technical skills training, was started with the mission to bridge the skill gap in the technology sector by offering highquality education in vernacular languages. The key reasons behind the founding of GUVI include:
+
+1. Skill Gap in Technology: There was a recognized need to address the mismatch between the skills that employers required and what job seekers possessed, particularly in the tech industry. GUVI aimed to equip individuals with the necessary skills to meet industry demands.
+
+2. Accessibility of Education: Traditional education systems often fell short in providing accessible, affordable, and effective tech education to a wide audience. GUVI was founded to make quality education more accessible to a diverse population.
+
+3. Language Barriers: Many learners faced challenges due to language barriers, as most highquality educational content was available only in English. GUVI focus on offering courses in vernacular languages was to ensure that language was not a barrier to learning.
+
+4. Demand for Practical Skills: There was a growing demand for practical, handson experience in learning. GUVI emphasized projectbased learning and realworld applications to ensure that learners gained practical skills alongside theoretical knowledge.
+
+5.Online Learning Trends: The increasing trend and acceptance of online learning platforms provided an opportunity to reach a broader audience. GUVI leveraged this trend to deliver its courses online, making learning more flexible and accessible.
+
+By addressing these needs, GUVI aimed to empower individuals with the skills required for better career opportunities, thus contributing to the overall growth of the technology sector.
+Guvi offers a diverse range of courses covering various subjects and skill levels. Here are some common types of courses you can find on Guvi:
+
+1. Programming Languages: Guvi offers courses on popular programming languages such as Python, Java, JavaScript, C, C++, and more. These courses cover fundamental concepts, syntax, data structures, algorithms, and practical applications.
+
+2.Web Development: Guvi provides courses on web development technologies, including HTML, CSS, JavaScript, React, Angular, Node.js, and PHP. Learners can acquire skills in frontend development, backend development, fullstack development, and web application deployment.
+
+3.Data Science and Analytics: Guvi offers courses on data science, machine learning, and analytics, covering topics such as data preprocessing, exploratory data analysis, statistical modeling, machine learning algorithms, and data visualization.
+
+4. Artificial Intelligence and Deep Learning: Guvi provides courses on artificial intelligence (AI) and deep learning, enabling learners to understand concepts such as neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), natural language processing (NLP), and reinforcement learning.
+
+5.Cloud Computing and DevOps: Guvi offers courses on cloud computing platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Learners can also explore DevOps practices, including continuous integration, continuous deployment, containerization, and infrastructure as code (IaC).
+
+6.Soft Skills and Career Development: Guvi provides courses on soft skills, career development, and professional certifications. These courses cover topics such as communication skills, leadership skills, time management, resume writing, interview preparation, and career planning.
+
+7. DomainSpecific Courses: Guvi offers domainspecific courses tailored to specific industries or job roles, such as cybersecurity, digital marketing, financial analysis, ecommerce, game development, mobile app development, and more.
+
+8.ProjectBased Courses: Guvi offers projectbased courses where learners can work on realworld projects to apply their skills and knowledge in practical scenarios. These courses often include guided projects, case studies, and handson assignments.
+
+9.Certification Courses: Guvi provides certification courses that enable learners to earn industryrecognized certifications upon successful completion. These certifications validate learners' skills and enhance their credibility in the job market.
+
+Before enrolling in a course on Guvi, consider your learning goals, interests, and skill level to choose a course that aligns with your needs. Additionally, check the course curriculum, instructor credentials, and learner reviews to ensure a positive learning experience.
+The duration of courses on Guvi can vary depending on the topic, complexity, and learning format. Guvi offers courses with different durations to cater to the needs and preferences of learners. Here are some common types of course durations you might encounter on Guvi:
+
+1. Short Courses: These courses typically last a few hours to a few days and focus on specific topics or skills. Short courses are suitable for learners who want to quickly acquire new knowledge or skills on a specific subject.
+
+2.Weekend Bootcamps: Guvi occasionally offers weekend bootcamps or workshops that span one or two days. These intensive learning sessions cover a significant amount of material in a short period, making them ideal for learners with busy schedules.
+
+3.Regular Courses: Regular courses on Guvi can range from a few weeks to a few months in duration. These courses often follow a structured curriculum with multiple modules or units, allowing learners to delve deeper into the subject matter and build a solid foundation of knowledge and skills.
+
+4.SelfPaced Learning: Many courses on Guvi are selfpaced, meaning that learners can complete them at their own pace within a flexible timeframe. These courses typically provide access to course materials, videos, and assignments for a certain period, allowing learners to progress through the content at their own speed.
+
+5.Subscriptionbased Learning: Guvi also offers subscriptionbased learning models where learners have access to a library of courses and resources for a monthly or annual fee. With this model, learners can choose the duration of their subscription based on their learning goals and preferences.
+
+Before enrolling in a course on Guvi, it's essential to check the course description or syllabus to understand the duration, format, and requirements. Additionally, consider factors such as your availability, learning objectives, and preferred learning pace when selecting a course duration that suits you best.
+Guvi has achieved several milestones and accomplishments since its inception. Some of these achievements include:
+
+1.Impactful Learning Platform: Guvi has successfully established itself as a popular online learning platform, providing quality education in programming, technology, and other fields to a diverse audience.
+
+2. Expanding Course Catalog: Over the years, Guvi has expanded its course catalog to offer a wide range of topics, including programming languages, web development, data science, artificial intelligence, and soft skills training.
+
+3. Community Engagement: Guvi has built a strong community of learners, instructors, and industry professionals. Through forums, webinars, and networking events, Guvi fosters collaboration, knowledge sharing, and mentorship opportunities among its community members.
+
+4.Industry Partnerships: Guvi has formed partnerships with leading companies, educational institutions, and industry experts to enhance the quality and relevance of its courses. These partnerships often result in collaborative projects, internships, and job opportunities for Guvi learners.
+
+5. Recognition and Awards: Guvi has received recognition and awards for its contributions to education and technology. These accolades validate Guvi commitment to excellence and innovation in online learning.
+
+6. Job Placements: Guvi has helped many of its learners secure job placements in top companies across various industries. By providing joboriented training and career guidance services, Guvi prepares its students for successful careers in the tech sector.
+
+7. Social Impact: Through its initiatives, such as skill development programs for underprivileged communities and educational outreach campaigns, Guvi has made a positive social impact by empowering individuals with valuable skills and opportunities.
+
+Overall, Guvi achievements reflect its dedication to delivering highquality education, fostering community engagement, and making a meaningful impact in the online learning space.
+Guvi is an online platform, so it doesn't have a physical location like a traditional school or learning center. You can access Guvi courses and resources from anywhere with an internet connection. Simply visit their website or download their mobile app to start learning.
+Certainly! Guvi offers several benefits to learners:
+
+1.Structured Learning Paths: Guvi provides structured learning paths for various topics such as programming languages, web development, data science, and more. These paths guide learners through a series of courses and projects, ensuring a comprehensive understanding of the subject matter.
+
+2. HandsOn Projects: Guvi emphasizes handson learning by offering projects and coding exercises. These practical assignments help learners apply theoretical concepts in realworld scenarios, reinforcing their understanding and skills.
+
+3.Interactive Learning Experience: Guvi platform is designed to provide an interactive learning experience. Learners can engage with course material through videos, quizzes, coding challenges, and interactive code editors, making the learning process more dynamic and engaging.
+
+4. SelfPaced Learning: Guvi courses are selfpaced, allowing learners to study at their own convenience. This flexibility is particularly beneficial for working professionals and students who may have other commitments.
+
+5. Certification: Guvi offers certificates upon course completion, which can be valuable for showcasing skills to employers and enhancing career prospects.
+
+6. Community Support: Guvi fosters a supportive community where learners can interact with instructors and peers. This community aspect allows learners to ask questions, seek clarification, and collaborate on projects, creating a conducive learning environment.
+
+7. Affordability: Guvi offers a range of pricing options, including free courses and premium subscriptions. This affordability makes quality education accessible to a wide audience.
+
+8. Job Assistance: Guvi provides job assistance services, including resume building, interview preparation, and job referrals. These resources can help learners transition into new careers or advance in their current roles.
+
+Overall, Guvi comprehensive approach to online learning, coupled with its focus on practical skills and community support, makes it a valuable platform for individuals looking to acquire new skills or advance their careers in the tech industry.
+Guvi is an online platform that offers various courses and resources related to programming, technology, and career development. It provides opportunities for learning programming languages, web development, data science, and other technical skills. Guvi aims to make learning accessible and engaging through interactive courses, projects, and assessments.
+
+Here are some reasons why someone might choose Guvi:
+
+1. Quality Content: Guvi provides highquality content curated by experts in the field, ensuring that learners receive valuable and uptodate information.
+
+2. Interactive Learning: The platform offers interactive learning experiences, including handson coding exercises, projects, and quizzes, which help reinforce learning and retention.
+
+3. Affordability: Guvi offers courses at various price points, including free options, making it accessible to learners with different budgets.
+
+4. Certification: Completing courses on Guvi often results in certificates, which can be valuable for showcasing skills to employers or for personal development.
+
+5. Community Support: Guvi fosters a community of learners where users can interact with instructors and fellow students, ask questions, and share knowledge and experiences.
+
+6. Career Opportunities: By learning indemand skills on Guvi, learners may enhance their career prospects and job opportunities in the tech industry.
+
+Overall, Guvi can be a valuable resource for individuals looking to improve their programming and technical skills, whether they are beginners or experienced professionals.
+
+GUVI was started as a YouTube channel in 2011. The channel posted video tutorials, courses, and practice materials created by Arun Prakash, Sridevi Arun Prakash, and SP Balamurugan. The videos were posted in Tamil, Telugu, and Marathi, with the goal of reaching people not fluent in English.[2]
+The trio quit their job in 2014 and started GUVI as a company. Seeded with an initial capital of ₹1,000,000, the startup was incubated at the Rural Technology and Business Incubator (RTBI) based out of IIT Madras. The startup raised seed funding of ₹500,000, and officially launched in November 2014.
+GUVI received its first institutional round of funding of ₹10,000,000, from USbased Gray Matters Capital's edLABS in April 2019.[3] It raised ₹60,000,000 in its preseries A round of funding from Education Catalyst Fund, an educationfocused venture capital fund managed by CBA Capital, in April 2020[4]
+
+Mission of guvi is To democratize tech education worldwide by meeting the standards of the EdTech industry.
+Top Vernacular EdTech Company incubated by IITM & IIMA
+Delivering worldclass learning experience by providing highlyeffective & finest learning solutions, breaking the language barrier in techlearning to more than 2 million learners worldwide
+What is the turnover of GUVI.
+Guvi Geek Network's operating revenues range is INR 1 cr  100 cr for the financial year ending on 31 March, 2023. It's EBITDA has decreased by 175.74 % over the previous year. At the same time, it's book networth has increased by 137.61 %.
+
+What is the salary of GUVI full stack developer.
+Average Base Pay
+The estimated total pay range for a Full Stack Developer at GUVI is ₹60T–₹3L per year, which includes base salary and additional pay.
+What is GUVI zen class.
+Zen Class  Career Programs from GUVI
+Zen Class is one of the industry's leading Project Based Career Programs offered by GUVI that promises Placement Guidance on completing the course. Designed by our Founders (ExPaypal Employees), GUVI also offers mentoring through experts from companies like Google, Microsoft, Flipkart, Zoho & Freshworks.
+What is the annual revenue of GUVI.
+The operating revenue of GUVI GEEK NETWORK PRIVATE LIMITED is in the range of INR 1 cr  100 cr for the financial year ending on 31 March, 2023.
+The highestpaying job at GUVI is a Lead Software Engineer with a salary of ₹18,02,565 per year (estimate). The lowestpaying job at GUVI is a Tech Support Intern with a salary of ₹2,40,679 per year (estimate).
+Chennai (Tamil Nadu) [India], November 30 (ANI/NewsVoir): IIT Madras incubated startup ropes in Indian women's cricketer Smriti Mandhana as its brand ambassador.
+Top 10 GUVI Alternatives & Competitors
+GUVI Alternatives & Competitor is Upshift.
+GUVI Alternatives & Competitor is Thumbtack.
+GUVI Alternatives & Competitor is99Designs.
+GUVI Alternatives & Competitor is Helpware.
+GUVI Alternatives & Competitor is Taskrabbit.
+GUVI Alternatives & Competitor is Amazon Mechanical Turk.
+GUVI Alternatives & Competitor is Fingerhut Recruiting.
+GUVI Alternatives & Competitor is Wonolo.
+
+GUVI (Grab Ur Vernacular Imprint):
+
+1.Overview:
+    GUVI is an edtech company that originated from IIT Madras and is incubated by IITM and CIIE (IIMA). It provides online learning platforms primarily focused on technology and programming courses.
+
+2.Location:
+   GUVI is based in Chennai, Tamil Nadu, India.
+
+3. Courses Offered:
+    GUVI offers a range of courses in various programming languages and technologies such as Python, Java, C++, JavaScript, data science, machine learning, artificial intelligence, fullstack web development, and more.
+   The platform provides these courses in multiple Indian languages, making it accessible to a broader demographic.
+
+4.Learning Approach:
+    GUVI unique selling point is its focus on vernacular languages, helping nonEnglish speaking students to learn coding and technology skills in their native language.
+   They offer videobased tutorials, handson coding exercises, and projects to facilitate practical learning.
+
+5. Certification:
+    Upon completion of courses, learners can receive certificates that can be added to their professional profiles.
+
+6. Collaborations and Partnerships:
+    GUVI has partnerships with various educational institutions and tech companies to enhance the learning experience and provide industryrelevant skills.
+    They also collaborate with academic institutions to offer specialized courses and training programs.
+
+7.Community and Support:
+    GUVI has an active community of learners and mentors. Students can collaborate, share knowledge, and get support from peers and experts.
+    They provide forums, live sessions, and other interactive platforms for learner engagement.
+
+8.Job Assistance:
+    GUVI offers joboriented courses and placement assistance. They have tieups with several companies to help students get internships and job placements.
+
+9.Events and Workshops:
+   GUVI frequently organizes hackathons, coding challenges, webinars, and workshops to keep learners engaged and updated with the latest trends in technology.
+
+10. Recognition:
+     GUVI has gained recognition for its innovative approach to democratizing education, especially in the tech domain, and has won several awards for its contributions to education technology.
+
+GUVI is designed to help students land jobs after graduation and career assistance is included in the curriculum. Career services include oneonone coaching, interview support, and job placement.
+
+GUVI offers refunds within 7 days of the start of instruction. GUVI students have several payment options to increase accessibility.
+Guvi offers a variety of courses and programs, each with its own fee structure. The fees can vary based on the type of course, its duration, and the level of expertise it provides. Here are some general guidelines on the course fees at Guvi:
+
+Types of Courses and Fees
+Nano Degree Programs:
+
+These are comprehensive programs that cover a wide range of topics and typically last several months.
+Fees for nano degree programs can range from ₹30,000 to ₹1,00,000 or more, depending on the complexity and duration of the course.
+Standalone Courses:
+
+Guvi offers individual courses on specific topics such as programming languages (Python, Java, C++), web development, data science, machine learning, etc.
+The fees for these courses can vary from ₹2,000 to ₹20,000.
+Bootcamps:
+
+Intensive training programs designed to teach specific skills in a short period, often a few weeks to a couple of months.
+Fees for bootcamps can range from ₹10,000 to ₹50,000.
+Workshops and Special Programs:
+
+Shortterm workshops or special programs focusing on niche topics or emerging technologies.
+Fees for workshops can range from ₹500 to ₹5,000.
+Payment Options and Financial Assistance
+Installment Plans:
+
+Many programs offer the option to pay the fees in installments, making it more affordable for students.
+Scholarships and Discounts:
+
+Guvi often provides scholarships and discounts based on merit, need, or during promotional periods.
+EMI Options:
+
+Some programs offer the option to pay through Equated Monthly Installments (EMI), making it easier to manage the cost over time.
+Example Fees for Specific Courses
+Here are some examples to give a better idea of the fee structure:
+
+Python Programming Course:
+
+Fee: ₹5,000 to ₹10,000
+FullStack Web Development Nano Degree:
+
+Fee: ₹50,000 to ₹1,00,000
+Data Science and Machine Learning Bootcamp:
+
+Fee: ₹30,000 to ₹75,000
+AI and Deep Learning Specialization:
+
+Fee: ₹40,000 to ₹90,000
+How to Check Specific Course Fees
+To get the exact fees for a particular course, you should visit the official Guvi website and navigate to the course you are interested in. Each course page will provide detailed information on the curriculum, duration, and fees.
+
+Guvi offers a range of courses with varying fees to cater to different learning needs and budgets. Whether you are looking for a comprehensive nano degree program, a specific skill course, or a shortterm workshop, Guvi provides multiple options to fit your educational and financial requirements. Additionally, with payment plans, scholarships, and EMI options, Guvi aims to make quality technical education accessible to a broader audience.
+Guvi was founded by Arun Prakash M, Bala Murugan Muthusamy, and Sridevi Arunprakash. Here is a brief introduction to the founders:
+
+Arun Prakash M:
+Arun Prakash is the cofounder and CTO of Guvi. He has a strong background in software development and has previously worked with companies like PayPal. His expertise lies in building scalable tech solutions and educational platforms.
+Bala Murugan Muthusamy:
+Bala Murugan is the cofounder and CEO of Guvi. He has a background in engineering and a keen interest in technology and education. Bala has been instrumental in driving Guvi vision of making highquality technical education accessible to all.
+Sridevi Arunprakash:
+Sridevi Arunprakash is the cofounder and Managing Director of Guvi. She has extensive experience in education and has played a significant role in developing the curriculum and instructional design for Guvi courses.
+
+Introduction
+
+Guvi is an innovative online learning platform that has revolutionized the landscape of technical education. Founded in 2014, Guvi primary mission is to make highquality technical education accessible to learners worldwide, regardless of their linguistic or geographical barriers. Through a blend of interactive learning, realworld projects, and industryrelevant skills, Guvi empowers individuals to thrive in the everevolving field of technology.
+
+2. History and Founding
+
+Guvi was founded by Arun Prakash M, Bala Murugan Muthusamy, and Sridevi Arunprakash, three visionaries who recognized the need for a more inclusive and accessible approach to technical education. The journey began with a simple yet profound idea: to provide learners with the skills they need to succeed in the tech industry, delivered in a way that is engaging, practical, and accessible.
+
+Founders' Backgrounds
+Arun Prakash M: With a background in software engineering and extensive experience at companies like PayPal, Arun brings deep technical expertise and a passion for education to Guvi. As the CTO, he is responsible for the technological vision and innovation at Guvi.
+
+Bala Murugan Muthusamy: Bala, the CEO, has a strong background in engineering and management. His vision for Guvi is to democratize technical education and create a platform where anyone can learn and grow, regardless of their background.
+
+Sridevi Arunprakash: Sridevi, the Managing Director, has a rich experience in education and curriculum design. She ensures that Guvi courses are pedagogically sound and aligned with industry needs.
+
+3. Mission and Vision
+
+Mission
+Guvi mission is to bridge the gap between theoretical knowledge and practical skills by providing accessible, highquality technical education that empowers learners to achieve their career goals and contribute to the tech industry.
+
+Vision
+Guvi envisions a world where anyone, regardless of their linguistic, cultural, or socioeconomic background, can access the education and resources they need to succeed in the techdriven world. By fostering a community of learners and leveraging technology, Guvi aims to create a global network of skilled professionals who are ready to tackle the challenges of the future.
+
+4. Course Offerings
+
+Guvi offers a comprehensive range of courses designed to cater to learners at all levels, from beginners to advanced professionals. The course offerings are categorized into several key areas:
+
+Programming Languages
+Guvi provides indepth courses on various programming languages, ensuring that learners gain a strong foundation in coding. Some of the popular programming languages taught on Guvi include:
+
+Python: Known for its simplicity and versatility, Python is a great starting point for beginners and is widely used in web development, data science, and automation.
+Java: A robust, objectoriented language used in enterpriselevel applications, Android development, and large systems.
+JavaScript: The backbone of web development, essential for creating interactive and dynamic web applications.
+C++: A powerful language for system programming, game development, and applications requiring high performance.
+C#: Used extensively in Microsoft applications, game development with Unity, and enterprise software.
+Data Science and Analytics
+Data science is one of the most soughtafter skills in today's job market. Guvi offers courses that cover the entire data science pipeline, from data collection and preprocessing to advanced analytics and machine learning. Key courses include:
+
+Data Analysis with Python: Learn to use libraries like pandas, NumPy, and Matplotlib for data manipulation and visualization.
+Machine Learning with ScikitLearn: Understand the fundamentals of machine learning and implement algorithms using the scikitlearn library.
+Deep Learning with TensorFlow and Keras: Dive into neural networks and deep learning techniques using popular frameworks.
+Big Data Analytics: Explore tools and techniques for handling and analyzing large datasets, including Hadoop and Spark.
+Web Development
+Guvi web development courses are designed to equip learners with the skills needed to build modern, responsive websites and web applications. Courses include:
+
+FrontEnd Development: Learn HTML, CSS, JavaScript, and frameworks like React and Angular to create userfriendly interfaces.
+BackEnd Development: Master serverside languages like Node.js, Python (Django/Flask), and PHP, along with databases like MySQL and MongoDB.
+FullStack Development: Combine frontend and backend skills to build complete web applications from scratch.
+Machine Learning and AI
+Artificial intelligence and machine learning are transforming industries worldwide. Guvi offers advanced courses to help learners stay at the forefront of this technological revolution:
+
+Natural Language Processing (NLP): Techniques for processing and analyzing text data, including sentiment analysis, text classification, and language generation.
+Computer Vision: Methods for image processing, object detection, and facial recognition.
+Reinforcement Learning: Understand the concepts of reinforcement learning and its applications in areas like robotics and game development.
+Emerging Technologies
+Guvi is committed to keeping its curriculum uptodate with the latest advancements in technology. Courses in emerging fields include:
+
+Blockchain Technology: Learn about decentralized applications, smart contracts, and cryptocurrency.
+Cybersecurity: Understand the principles of network security, ethical hacking, and cybersecurity best practices.
+Cloud Computing: Gain proficiency in cloud platforms like AWS, Azure, and Google Cloud, including services for computing, storage, and machine learning.
+5. Educational Methodologies
+
+Guvi employs a variety of innovative educational methodologies to ensure that learning is effective, engaging, and applicable to realworld scenarios.
+
+Interactive Learning
+Guvi interactive learning approach involves engaging students through quizzes, coding exercises, and interactive videos. This method helps reinforce learning and keeps students actively involved in their educational journey.
+
+Handson Coding
+Handson coding is at the core of Guvi educational philosophy. The integrated coding platform allows students to practice coding in realtime, providing immediate feedback and a practical understanding of programming concepts.
+
+Realworld Projects
+Guvi emphasizes the importance of realworld projects to bridge the gap between theoretical knowledge and practical application. Students work on industryrelevant projects that simulate realworld challenges, enhancing their problemsolving skills and preparing them for the job market.
+
+6. Technological Infrastructure
+
+Guvi technological infrastructure is designed to provide a seamless and efficient learning experience. Key components include:
+
+Learning Management System (LMS)
+Guvi Learning Management System (LMS) is a robust platform that supports course delivery, student tracking, and performance assessment. The LMS is userfriendly and accessible, ensuring that students can easily navigate through their courses and track their progress.
+
+Integrated Coding Platform
+The integrated coding platform is a standout feature of Guvi, enabling students to write, test, and debug code directly within the learning environment. This platform supports multiple programming languages and provides realtime feedback, making it easier for students to learn coding effectively.
+
+AI and Machine Learning in Education
+Guvi leverages AI and machine learning to enhance the learning experience. AIdriven recommendations help personalize learning paths, while machine learning algorithms analyze student performance data to provide insights and improve course content.
+
+7. Multilingual Support
+
+Guvi commitment to accessibility is evident in its support for multiple languages. Recognizing that language can be a significant barrier to learning, Guvi offers courses in several Indian languages, including Tamil, Telugu, Hindi, and Kannada, in addition to English. This multilingual approach ensures that learners can access educational content in their native language, making it easier to understand and retain information.
+
+8. Personalized Learning Paths
+
+Personalized learning paths are designed to cater to the unique needs and goals of each learner. Guvi platform uses AI to analyze a student's progress and provide customized recommendations, ensuring that learners stay on track and achieve their objectives efficiently. Whether a student is looking to master a specific skill, complete a certification, or prepare for a job, Guvi personalized learning paths provide the guidance and resources needed to succeed.
+
+9. IndustryRelevant Skills and Collaborations
+
+Guvi courses are developed in collaboration with industry experts and leading companies to ensure that the skills taught are relevant and in demand. This industry alignment helps students acquire the knowledge and expertise needed to excel in the job market. Guvi partnerships with tech companies also provide students with opportunities for internships, projects, and job placements.
+
+10. Career Support and Placement Assistance
+
+Guvi commitment to student success extends beyond the classroom. The platform offers comprehensive career support services, including resume building, interview preparation, and job placement assistance.
+
+Mentor Support: GUVI mentors provide one-on-one guidance and support throughout the course. They conduct live sessions, offer feedback on assignments and projects, and help students navigate the complexities of game development with PyGame.
+
+Project Portfolio: GUVI offers students the opportunity to build a portfolio of game development projects, showcasing their skills and creativity to potential employers. Projects include real-world challenges and a comprehensive capstone project.
+
+Pre-Bootcamp Training: GUVI conducts a pre-bootcamp training phase to assess students' skills and determine the appropriate course level. This ensures students are prepared for the intensive game development with PyGame program.
+
+Certification: Upon successful completion of the course, students receive a Game Development using PyGame certification from GUVI, recognized in the game development industry.
+
+
+List of Programs - Live Classes with Placement Guidance
+Full Stack Development,Data Science,Automation Testing using Selenium,UI/UX Program,Big Data and Cloud Analytics,Java Automation Testing,DevOps Program,Business Analytics and Digital Marketing,Artificial Intelligence & Machine Learning and more
+
+
+1.About GUVI’s Full Stack Development Course
+Our IIT-M Pravartak Certified Full Stack Development Course with AI Tools offers a pinnacle of real-time learning and expert mentorship. Harness our AI-powered platforms for round-the-clock project guidance and customized interview preparation. From exciting hackathons to insightful webinars and a supportive community, this course offers it all, with learning options in Tamil, Kannada, Hindi, and English. Step into the Full-stack development industry with confidence and a network of industry leaders to back you.
+Format: Online
+Duration : 3 Months (Weekdays) / 5 Months (Weekends)
+Course :Live Online Classes + Lifetime access to Recorded Videos
+Hiring Partners : 200+ Companies
+Program Fee: ₹ 94,999 (Inclusive of GST)
+EMI Options :Upto 12 months
+
+Full Stack Development Syllabus 
+Guvi's full stack development course includes eight modules designed to build and enhance your web development skills, focusing on the MERN stack.
+Module 1: JS Basics covers foundational JavaScript concepts and ES6 features like arrow functions and object destructuring. Module 2: HTML, CSS, Bootstrap teaches web development essentials from basic tags to advanced styling. Module 3: Advanced JS dives into DOM manipulation, asynchronous programming, and practical projects. Module 4: ReactJS focuses on creating dynamic single-page applications with state management and CRUD operations using Axios. Module 5: Redux covers state management with Redux, including reducers, actions, and async data fetching. Module 6: Database provides insights into MySQL and MongoDB, mastering CRUD operations and querying data. Module 7: Node.js teaches backend development with Node.js, Express.js, authentication, and MongoDB integration. Module 8: MERN Fullstack Demo guides you in building cutting-edge web applications with the MERN stack.
+
+
+2.About GUVI's Data Science Course IIT-M Pravartak Certified Advanced Programmer with Data Science Mastery Program is a leading-edge Technological Program paving your way to an assured lucrative career. It is an integrated course directed by GUVI - an IIT-M incubated company. Instructed by the industry’s best Technical Experts & Founders(Ex-Paypal Employees), this program offers mentorship through Data Experts and directs you to the Fortune 500 companies. The vision is to make the premium organizations discover the Right talent through GUVI’s Zen Class.
+Format : Online
+Duration : 3 Months (Weekdays) / 5 Months (Weekends) 
+Course : Live Online Classes + Lifetime recorded videos
+Hiring Partners : 200+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Data Science Syllabus
+Guvi's Data Science course offers a detailed pathway for mastering data science and machine learning, structured into 25 modules.
+This program’s curriculum is comprehensively designed to help learners acquire data science competencies while working with hands-on projects using prominent technologies like Python, MongoDB, Pandas, Numpy, Tableau & PowerBi Data Methods. Join the league of Emerging Data Scientists who utilize their best skills to find the best trends and to manage the data as analytical Data Experts.
+
+3.Automation Testing With Selenium
+Acquire exponential growth in software automation by mastering in-demand skills like Selenium, Python, Java, Jenkins, Jmeter, API Testing, and more. This Certification Course will assist you in procuring a 360-degree view of automation technology. Get into professional career focusing on the quality of Product & Process development with hands-on software automation training.
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+About Automation testing with Selenium
+Expand your digital footprint by gaining end-to-end expertise in Automation testing with Selenium. This leading-edge Technological Program delivers the top-notch automation skills imbibed in the current software industry for evaluating product quality and assurance. Curated by subject matter experts at GUVI- instructed by the industry’s best Technical Experts & Founders(Ex-Paypal Employees), this Certification Program imparts all-rounder skills in automation testing. This program: Automation Testing with Selenium incorporates pedagogical tools focusing on industry expectations that will direct you to the jobs in Fortune 500 companies.
+
+Why Automation Testing?
+Industry Trends represent an overall transition to automation. The global automation testing market size is anticipated to grow by $28.8 billion by 2024 at a Compound Annual Growth Rate(CAGR) of 18%, as per reports from MarketsAndMarkets report. That leads to a 40% annual growth in Automation Testing job roles in varied industries. So, are you ready to upgrade yourself?
+
+Automation Testing Syllabus
+Guvi's software testing and automation course covers 10 modules.
+Module 1: Manual Testing introduces software testing, SDLC, methodologies, test design, QA & QC, and Agile. Module 2: Python covers Python basics, loops, data structures, functions, OOP, and essential packages. Module 3: Web Basics includes HTML, CSS, and DOM fundamentals. Module 4: Data Source focuses on JSON handling and MySQL basics, including normalization and queries. Module 5: Selenium teaches Selenium with Python, its architecture, and IDE setup. Module 6: Selenium Architecture delves into DOM usage, test writing, navigation, and headless browsers. Module 7: Locating Elements explains finding elements by ID, name, CSS, and Xpath. Module 8: WebDriver API covers exceptions, action chains, alerts, browser-specific drivers, and wait support. Module 9: Automation Framework discusses framework architecture, Page Object Model, data-driven, and keyword-driven frameworks. Module 10: Git & Jenkins introduces Git, GitHub, and Jenkins setup for automation. This course ensures a comprehensive understanding of software testing, Python, web basics, data handling, Selenium, automation frameworks, and version control.
+
+
+4.UI UX Design Program
+Zen Classes are a series of career courses by GUVI - an IIT Madras Incubated Company. The classes are focused on project-based learning and encouraged to work on real-time projects. This Program incorporates the most trending design tools focusing on industry expectations directing you to Fortune 500 companies.
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Is UI UX a Good Career?
+The demand for UI UX Designers is increasing day by day. UI UX Job is ranked 6th on Glassdoor’s “Top 25 highest-paying entry-level jobs”. Everything is becoming digital in this era, which means most product or service-based companies require a UI UX Designer for their needs. That's why the demand & the average salary for a UI UX Designer are increasing every year.
+
+UI UX Job Roles
+UX Designer,UI Designer,UX/UI Designer,UX Researcher,UX Writer,UX Architect,UX Strategist,Product Designer,Product Manager
+
+UI UX Course Eligibility
+Working Professionals who want to start their career in UI UX Domain,
+Graduates interested in learning UI UX to get their first job,
+Students aspiring to become a UX UI Designer.
+
+UI/UX Syllabus
+Guvi's UX design course is organized into six concise modules
+Module 1: UX Fundamentals covers business requirement gathering, user research, and interview techniques. Module 2: Research Data Analysis focuses on competitor benchmarking and heuristic analysis. Module 3: Ideation includes techniques, whiteboarding, journey maps, motivation and empathy mapping, information architecture, navigation, content through card sorting, sitemaps, and user flows. Module 4: Testing covers A/B testing, remote usability testing, and guerrilla testing. Module 5: Tools introduces Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, and Miro Board. Module 6: Advanced Concepts explores heuristic principles, UX laws, case studies, minimalism vs. maximalism, and cognitive bias. This course equips learners with comprehensive UX design skills, from research and ideation to testing and advanced principles.
+
+5.Big Data and Cloud Analytics
+About the Big Data and Cloud Analytics
+The IITM Pravartak and AWS Certified Advanced Professional course in Big Data and Cloud Analytics is a leading-edge Technological Program paving your way to an assured lucrative career. It is an integrated course directed by GUVI - an IIT-Madras incubated company. Instructed by the industry’s best Technical Experts & Founders(Ex-Paypal Employees), this program offers mentorship through Data Engineering Experts and directs you to the Fortune 500 companies. The vision is to make the premium organizations discover the Right Talent.
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Curriculum of Big Data and Cloud Analytics
+Get introduced to the different aspects of Data Engineering and stay abreast with the advanced tools and technologies that go hand-in-hand to make a brand a fire. Master the Data Engineering skills that the present tycoons & top Data Engineers follow!
+Module 1 : Python Module 2 : Python(Advance) Module 3 : SQL Module 4 : RDBMS Module 5 : System Design Module 6 : Mongo DB Module 7 : Shell ScriptModule 8 : Git
+Module 9 : AWS CloudModule 10 : SnowflakeModule 11 : AirflowModule 12 : BigDataModule 13 : KafkaModule 14 : SparkModule 15 : Data cleaningModule 16 : Prometheus
+Module 17 : Data dogModule 18 : Docker Module 19 : Kubernetes
+The Big Data and Cloud program offered by GUVI consists of a comprehensive set of 19 modules designed to equip learners with essential skills and knowledge in various domains. The syllabus includes foundational courses such as Python and Python (Advanced), which lay the groundwork for programming. It progresses into database management with SQL, RDBMS, and MongoDB, and covers important system design principles. The curriculum also includes modules on Shell Script and Git for scripting and version control.
+Cloud technologies are covered extensively with AWS Cloud and Snowflake. The program delves into data workflow management with Airflow, and large-scale data processing and analytics with Big Data, Kafka, and Spark. Data Cleaning is included to ensure learners can handle and preprocess data effectively. Monitoring and performance tools like Prometheus and Data Dog are also part of the syllabus. Finally, the program rounds off with containerization and orchestration technologies such as Docker and Kubernetes.Overall, the program offers a robust education on Big Data and Cloud technologies, ensuring participants are well-versed in both foundational and advanced topics in the field.
+
+6.Java Automation Testing Program
+Advance your career in software automation Testing by mastering in-demand skills like Selenium, Java, Jenkins, Jmeter, API Testing, and more. This Certification Course will assist you in procuring a 360-degree view of automation technology. Get into professional, quality Product & Process development with hands-on software automation testing training.
+Weekday (3 months) / Weekend (5 months) | Live Online classes + Lifetime recorded videos
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Why Java Automation Testing Program ?
+Expand your digital footprint by gaining end-to-end expertise in Java Automation testing. This leading-edge Technological Program delivers the top-notch automation skills imbibed in the current software industry for evaluating product quality and assurance. Curated by subject matter experts at GUVI- an IIT-Madras incubated company, and instructed by the industry’s best Technical Experts, this Certification Program imparts all-around skills in automation testing.
+Java Automation Testing Program incorporates pedagogical tools focusing on industry expectations directing you to the top companies.
+
+Why Automation Testing?
+Industry Trends represent an overall transition to automation. The global automation testing market size is anticipated to grow by $28.8 billion by 2024 at a Compound Annual Growth Rate (CAGR) of 18%, as per reports from MarketsAndMarkets report. That leads to a 40% annual growth in Automation Testing job roles in varied industries. So, are you prepared?
+
+Program Eligibility:
+Students, Freshers, Engineers, Software Developers, and other working professionals who are interested in software development and automation.
+Any interested candidate with a technical degree or equivalent
+
+Curriculum of Java Automation Testing Program
+Get a peek through the entire curriculum designed by our industry experts
+The java Testing and Automation program offered by GUVI consists of 16 detailed modules aimed at providing comprehensive knowledge and skills in software testing. The syllabus begins with an introduction to testing and manual testing in Module 1, followed by test case creation and bug reporting in Module 2. Module 3 covers Version Control, crucial for managing changes in code. Core Java is addressed in Module 4 to provide a strong programming foundation
+Automation testing is introduced in Module 5, and the basics of web elements are covered in Module 6. Module 7 focuses on Selenium, a key tool for automation testing, followed by build control tools in Module 8. Advanced Selenium topics such as browser and data-driven testing are covered in Module 9. Module 10 integrates Selenium with database testing.
+Frameworks like Page Object Model and TestNG are explored in Modules 11 and 12, respectively. Test Execution Reports and AutoIT are detailed in Module 13. Continuous Integration is covered in Module 14, followed by BDD with Cucumber in Module 15. The program concludes with Addon Sessions in Module 16 to enhance and consolidate learning.
+Overall, the program equips learners with both foundational and advanced skills in manual and automation testing, ensuring a thorough understanding of testing tools and practices.
+
+7.DevOps Program
+About DevOps Program
+Unveil a program that features the perfect mix of theory, live virtual classes, case studies, and extensive Hands-on practice to prepare you for a fast-growing field that bridges the gap between software developers and operations. Throughout the DevOps program, you will learn the main characteristics of DevOps processes, tools, and people involved during the lifecycle.
+DevOps offers a definite career path that promises steady growth. As a DevOps engineer, you will possess extensive knowledge of SDLC (software development life cycle), and you will know how to juggle coding, integrating, and testing.
+Weekday (3 months) / Weekend (5 months) | Live Online classes + Lifetime recorded videos
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Why you should enroll in DevOps?
+At its core, DevOps is a set of cultural philosophy, tools & practice that assists companies to build, test & deploy software & services more reliably at a faster rate. Traditionally, IT had two separate teams in an organization- The Development team & Operation team. Under a DevOps model, software development & operations are not isolated; but rather synced in a rhythm for continuous delivery/continous integration. 
+With time, many SMEs are adapting Agile Methodologies which have been at the forefront of Silicon Valley giants for the last decade. Jobs with DevOps in the title have become very popular over the last few years. Companies are in dire need of DevOps Talents who can maximize their productivity through automation. 
+
+DevOps
+DevOps is a software development approach emphasizing collaboration, automation, and continuous delivery to provide high-quality products to customers quickly and efficientlyThe only difference is between their adapted methods. A DevOps engineer prioritise agility & isaware of enterprise architecture knowledge, application development environment, testing department & ​​a better idea of how to move things so that the whole project moves faster.
+
+Full Stack Development
+A full-stack developer is a developer or engineer who can build both the front end & the back end of a website. The front end & the back end require different skill sets.The only difference is between their adapted methods. A full-stack developer is a versatile developer who runs a marathon which gives him enough time to maintain consistency & pace whereas a DevOps engineer prioritise agility. He/she is aware of enterprise architecture knowledge, application development environment, testing department & ​​a better idea of how to move things so that the whole project moves faster.
+
+Curriculum of devops
+DevOps is a software development methodology that combines software development (Dev) with information technology operations (Ops) participating together in the entire service lifecycle, from design through the development process to production support.
+The DevOps program at GUVI provides a comprehensive understanding of DevOps principles and practices, integrating software development with IT operations. The curriculum is structured into eight detailed modules. Module 1 introduces DevOps, setting the foundation for the course. Module 2 delves into Linux (Centos7/Ubuntu), essential for managing servers and environments. Vagrant and Linux File Servers are covered in Module 3, facilitating the creation of consistent development environments. Bash Scripting, taught in Module 4, equips learners with the skills to automate tasks. Module 5 focuses on GIT, a critical version control system for tracking changes in source code. Introduction to Containers and Dockers are explored in Modules 6 and 7, respectively, providing knowledge on containerization technology. The program culminates with Module 8, which covers AWS Infrastructure, teaching students how to manage and deploy applications on the cloud. Overall, this program ensures learners are well-versed in both the foundational and advanced aspects of DevOps, making them proficient in managing the entire service lifecycle from design to production support.
+
+8.Master’s in Business Analytics and Digital Marketing
+Business Analytics is pivot your business objectives into measurable actions! Identify, Leverage, and Improvise dramatically with accurate digital marketing analytics and boost your business to benefit everyone!
+6 Months (Weekend)  |  Live classes + Lifetime recorded videos *Only for Working Professionals & Graduates
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+Why Business Analytics and Digital Marketing ?
+Our comprehensive program in Business Analytics and Digital Marketing will help to gaze a wealth of insight into your marketing performance with the right tools and techniques in Analytics. This leading-edge Technological Program delivers the top-notch analytical skills that will enable you to stand out in the current business & marketing industry. 
+Curated by Tech Professionals at GUVI (an IIT-Madras incubated company), and instructed by the industry’s best Subject-matter Experts, this Certification Program incorporates pedagogical tools focusing on industry expectations and trends and provides Placement Guidance.
+Why Business Analytics and Digital Marketing?
+In the data-driven world, massive amounts of data are collected on the requirements and behaviour of consumers. Business analytic tools can be used to tailor the marketing campaigns to the consumer’s expenditure, habits and preferences leveraging the best of all channels.
+
+Curriculum Overview for Business Analytics and Digital Marketing
+This comprehensive curriculum is designed to ensure placement guidance by integrating core principles of Business Analytics with essential Digital Marketing skills. Over the course of 18 weeks, students will gain a deep understanding of data manipulation, visualization, and digital marketing strategies.
+The program begins with data wrangling in Excel and progresses to advanced SQL techniques, providing a solid foundation in data handling. Students will then delve into statistics and data visualization using both Excel and PowerBI. The curriculum also covers the basics of digital marketing, including SEO, social media marketing, and content marketing, while introducing essential tools like Google Analytics.
+In the latter part of the program, students explore predictive analytics, cluster analysis, and RFM analysis for marketing. The use of Tableau for data visualization is also emphasized. The final weeks are dedicated to interview preparation and a capstone project, ensuring that students are well-equipped for the job market. This holistic approach ensures that graduates are prepared for successful careers in the dynamic fields of business analytics and digital marketing.
+
+9.Artificial Intelligence & Machine Learning course
+Zen Class career program offers the high-end course to Master Artificial Intelligence & Machine Learning with Certification accredited by IITM Pravartak. Gain job-ready AI & ML skills within 5 months through 360-degree Career Guidance & Globally Recognized Skill Certifications.
+Format : Online
+Duration : 5 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 94,999 (Inclusive of GST)
+
+About GUVI’s Zen Class
+Zen Class offers the industry’s leading project-based professional courses powered by GUVI(an IIT-M & IIM-A incubated EdTech company), the Zen class is exclusively curated by the founders(ex-PayPal employees). With World-class mentorship from industry experts, a vernacular approach in upskilling & more than 600 top companies like Google, Microsoft, and Flipkart, as hiring partners, Zen class gives a competitive advantage for its learners to land their dream job.
+
+About Our IIT-M Pravartak Certified AI & ML Program
+IIT-M Pravartak Certified AI & ML Program is an Advanced Career Program from GUVI's Zen Class. This Program will help you become an Artificial Intelligence & Machine Learning Expert in just 5 Months. The goal of this course is to help Students/working professionals upskill and equip themselves with the job skills required to build and deploy AI & ML models in production using Cloud
+
+Why Learn AI & ML In 2024?
+By the end of 2024, AI is forecasted to create 2.3 Million jobs, with the highest demand for roles such as AI developers, machine learning engineers & data scientists. Also, according to studies done by the World Economic Forum(WEF), domains such as Artificial Intelligence, Machine Learning, and Data Analytics could create 133 Million new jobs globally. The average salary earned by a professional AI & ML Engineer is ₹11.3 Lakhs per Annum in India.
+High Salary High Job Demand Wide Scope of AI & ML in India
+
+Curriculum
+In this program, we adopt a case study methodology to disseminate the latest Developments in Cloud Technologies, Deep Learning, NLP and Machine Learning Model Building and its Deployment with the fundamentals of Artificial Intelligence.
+The curriculum focuses on cutting-edge advancements in Artificial Intelligence (AI), emphasizing practical skills in Cloud Technologies, Deep Learning, Natural Language Processing (NLP), and Machine Learning model development and deployment. It adopts a case study methodology and includes live classes with mentor support throughout.Starting with foundational modules like AI for everyone and an introduction to AI trends, the program progresses through Python basics and advanced topics, including data handling with Pandas and SQL. Exploratory Data Analysis (EDA) and data visualization using Matplotlib and Seaborn are covered to build essential data analysis skills.Machine Learning concepts are extensively covered from refresher courses to deep learning techniques using PyTorch, focusing on both image processing with Convolutional Neural Networks (CNNs) and NLP with neural networks. The curriculum also introduces Large Language Models (LLMs) and prompt engineering techniques using OpenAI.The culmination of the program includes final projects that allow students to apply their knowledge and skills acquired throughout the modules, ensuring they are well-prepared for careers at the forefront of AI and machine learning.
+
+10.CAD Design and Simulation
+Become A Certified Mechanical CAD Professional
+GUVI's ZEN CAD Course for Mechanical Engineers is the perfect place to start your journey to becoming a skilled CAD professional. Our course equips you with industry-recognized certifications from GUVI, including those from Autodesk and IITM Pravartak. You'll get to explore CAD tools such as AUTOCAD, SolidWorks, and CATIA, among others, along with their applications in areas like automotive, electrical, and machine design systems, to name a few. By the end of the course, you'll have a firm grasp of the foremost tasks used in Mechanical CAD technology, such as drafting, designing, assembly, motion study, mechanical Analysis and so forth. The course structure is comprehensive, and you can learn at your own pace through boot camp-style upskilling. With expert-guided mentorship and real-time CAD Mechanical projects, you'll gain practical experience to excel in this competitive field. Enroll today!
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 1,85,000 (Inclusive of GST)
+
+Why Pursue A Mechanical CAD Course?
+CAD course for mechanical engineering students & graduates is a powerful asset to latch on to unlimited career opportunities. Computer-aided design is a fast-growing segment of the job market & so the demand for design & drafting jobs is strongly predicted to grow through the next decade. The growth rate is about 7% for the computer-aided design (CAD) industry, according to the Bureau of Labor Statistics. With popular design tools like AutoCAD, SolidWorks & CATIA and Analysis tool like ANSYS and So on, are included in this mechanical CAD course, even a fresh graduate as a CAD-skilled mechanical engineer will earn an average annual salary of ₹ 5.0 Lakhs & can earn up to ₹ 7.7 LPA. 
+
+Mechanical CAD Course Syllabus
+The IITM Pravartak & Autodesk-certified CAD course is comprehensively curated to complement the knowledge gained through mechanical engineering. The Syllabus has been designed by Industry experts & mapped to meet the requirements of mechanical industries.
+
+The IITM Pravartak & Autodesk-certified CAD course is meticulously crafted to enhance the skills acquired in mechanical engineering. Developed in collaboration with industry experts, the syllabus is tailored to align with the specific needs of mechanical industries.
+The curriculum begins with AutoCAD Mechanical, providing foundational knowledge in computer-aided design (CAD). It then progresses to SolidWorks, focusing on 3D modeling and design. CATIA, including modules on CATIA Kinematics, further expands on advanced CAD techniques.
+An introduction to ANSYS Workbench follows, emphasizing engineering simulation and analysis. The inclusion of Geometric Dimensioning and Tolerancing (GD&T) enhances precision in design and manufacturing processes.
+The course culminates in an assessment and project phase, allowing students to apply their skills and demonstrate their understanding in practical scenarios. Overall, the program aims to equip students with the expertise needed to excel in the mechanical industry's rigorous demands.
+
+11.CAD Building Design and Analysis
+Enhance Your Career With Civil CAD Certification
+GUVI's Autodesk and IITM Pravartak Certified CAD Course for Civil Engineers will make you an expert in Civil-CAD. With globally recognized certifications, our course is designed and taught by industry experts to empower you with the essential AutoCAD, Revit, 3dsMax, etc, needed for modern civil design. Our approach will help you uncover 2D and 3D design, transforming your ideas into precise architectural and structural plans. Furthermore, you'll learn the art of careful drafting, detailing, 3D modeling, Structural Analysis,etc, thus setting yourself up for greater accuracy and efficiency in your projects like never before. Our unique boot camp-style upskilling approach will help you become a skilled Civil CAD Professional, ready to conquer the real-world challenges of civil engineering.
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 1,85,000 (Inclusive of GST)
+
+Discover The Benefits Of A Civil CAD Course.
+CAD course for civil engineering students & graduates will mobilize them to grab on the innumerable career opportunities. Computer-aided design is a fast-growing segment of the job market & so the demand for design & drafting jobs is strongly predicted to grow through the next decade. The growth rate is about 7% for the computer-aided design (CAD) industry, according to the Bureau of Labor Statistics. With popular design tools like AutoCAD, Revit, 3ds Max included in this civil CAD course, even a fresh graduate as a CAD-skilled civil engineer will earn an average annual salary of ₹5.0 Lakhs & can earn upto a maximum salary of ₹20 LPA.
+
+Syllabus
+The IITM & Autodesk-certified CAD course is comprehensively curated to complement the knowledge gained through civil engineering. The syllabus has been designed by Industry experts & mapped to meet the requirements of civil industries
+The IITM & Autodesk-certified CAD course for civil engineering offers a comprehensive curriculum designed to augment existing knowledge in the field. Developed in collaboration with industry experts, the syllabus is meticulously aligned with the specific requirements of civil industries.
+The course begins with AutoCAD, focusing on essential skills in computer-aided design (CAD) for civil engineering applications. It then progresses to Building Information Modeling (BIM), emphasizing collaborative design and project management.
+Revit Architecture follows, providing advanced tools for architectural design and documentation. The inclusion of 3ds Max enhances skills in 3D modeling and visualization, crucial for architectural presentations.STAAD.Pro introduces structural analysis and design, emphasizing engineering principles for building structures. The curriculum culminates with an assessment and project phase, allowing students to apply their skills practically.
+Upon completion, students receive a certificate, and the course includes interview preparation to enhance career opportunities in the civil engineering industry. Overall, the program aims to equip students with comprehensive skills to excel in civil engineering projects and meet industry demands effectively.
+
+12.Master Animation in Motion Graphics
+Become A Certified Professional In
+GUVI(An IIT-M & IIM-A incubated EdTech) certified Animation in Motion Graphics course of Zen class is a highly-advanced & innovative program for aspirants aiming for a career in the animated graphic design industry.
+This is a comprehensive Online live class learning course that covers the latest design tools & techniques that motion graphics designers use to create vivid videos, illustrations & visuals for the web, apps, television, or films. Extensively instructed by the industry’s best motion graphics experts under the guidance of Founders(Ex-Paypal Employees). This is a best motions graphics course that offers mentorship & career guidance.
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 85,000 (Inclusive of GST)
+
+why Master Animation in Motion Graphics?
+In the era of ‘work from home’ & online jobs, a motion graphics designer role will be boon in the booming animated graphics design industry. Explore your chances to position yourself as a freelancer, in-house animation expert or even as motion graphics professional working in corporate sector. Equip yourself with the required skillset and hands-on experience through our Zen-class Motion Graphics Course to compete for top professional positions with a potential to earn salaries ranging from ₹7 lakhs to ₹17 lakhs.
+
+Syllabus
+The certified design & Animation course of Zen-class is innovatively curated to spark the creativity of the budding animators & aspirants of motion graphics design. The syllabus has been designed by Industry experts & mapped to meet the requirements at its best in motion graphics industry.
+The Zen-class certified Design & Animation course is meticulously designed to ignite the creativity of aspiring animators and motion graphics designers. Developed in collaboration with industry experts, the syllabus is finely tuned to meet the highest standards of the motion graphics industry.
+The course begins with Module 1, providing an introduction to Motion Graphics Animation and Digital Design, setting a foundational understanding for students. Module 2 focuses on creating Storyboards, essential for planning and visualizing animated sequences.
+Moving forward, Module 3 delves into the Concepts of Graphic & Illustration, enhancing students' skills in visual storytelling and graphic design principles. Module 4 covers the Basics of Compositing, teaching students the art of combining visual elements into cohesive compositions.
+In Module 5, students learn The Art of Editing, crucial for refining animations and creating seamless transitions. UI Animation is explored in Module 6, where students gain insights into designing interactive user interfaces with animated elements.
+The course culminates with Module 7, dedicated to Portfolio Development and the Final Project. Here, students showcase their skills and creativity through practical projects that demonstrate their proficiency in motion graphics and animation.
+Overall, the Zen-class Design & Animation course offers a comprehensive journey through essential concepts and practical skills, preparing students to excel in the dynamic and competitive field of motion graphics design.
+
+13.Cloud Computing with Microsoft Azure
+Enhance Your Career With Azure Certification
+GUVI(An IIT-M & IIM-A incubated EdTech) offers a game-changing cloud computing program packed with advanced concepts aligning with Microsoft Azure on Zen Class. This comprehensive course prepares you with meticulous Guidance & strategies to achieve Microsoft global certification. A prestigious partnership with Microsoft Future Ready Talent will mobilize the learners to upgrade their cloud computing careers with Expert mentorship for the Industry, GitHub’s Student Developer Pack, USD 100 of Azure credit to build and work on projects, Internship Opportunities & Globally recognized Certifications.
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 1,25,000 (Inclusive of GST)
+
+Why Pursue An Advanced Cloud Computing Course?
+In the digital era, advanced cloud computing professionals are experts in revolutionizing the way businesses and organizations manage their data and applications. Pursuing this course will give a hands-on learning experience with Microsoft Azure - one of the leading cloud service providers in the world. Azure skills will empower businesses to scale, innovate, and drive digital transformation, further transforming skilled professionals into valuable assets for the industry.
+Zen-class Advanced Cloud Computing Course will bestow the necessary skills required to crack the Microsoft Azure Global Certification with added perks offered by Future Ready Talent Platform. Gain the potential to earn salaries ranging from ₹4 lakhs to ₹14 lakhs. The average salary of a well-versed Azure cloud computing professional is ₹6 lakhs.
+
+Advanced Cloud Computing Program Syllabus 
+The Advanced Cloud Computing Course with Microsoft Azure of Zen-class is thoroughly curated to harness the full potential of Azure by its learners. The syllabus is designed to highlight your career profile with the abilities to implement cloud services that enable cost-efficiency, scalability, and enhanced security which is followed by value-added certifications, and internship opportunities in collaboration with Microsoft Future Ready Talent Platform.
+
+The Microsoft Azure certified course comprises six modules designed to equip participants with comprehensive knowledge and practical skills in cloud computing and Azure services.Module 1 introduces participants to Microsoft Azure, providing an overview of its capabilities and features within the cloud computing landscape.
+Module 2 covers Microsoft Azure Fundamentals, focusing on foundational concepts, principles, and basic cloud services provided by Azure.In Module 3, participants learn about Azure Infrastructure Management, including topics such as virtual machines, storage solutions, networking, and security within Azure.Module 4 delves into Azure App Services and Serverless Computing, exploring how to deploy and manage web applications, APIs, and serverless functions on Azure.
+Azure AI and Cognitive Services are the focus of Module 5, where participants gain insights into integrating AI capabilities into applications using Azure services.
+Finally, Module 6 addresses Azure Solutions Architecture and High Availability, emphasizing design principles, best practices for scalability, reliability, and maintaining high availability in Azure solutions.
+Overall, this structured curriculum ensures that participants acquire a comprehensive understanding of Microsoft Azure, preparing them for leveraging Azure services effectively in various IT environments and applications.
+
+13.Data Structures and Algorithms Course with Python
+GUVI’s Zen class - Data Structures and Algorithms with Python course offers to unlock the power of data and logic that puts you on the path to success in the IT/Software industry. Hone your coding skills and enhance your career prospects within 6 months through hands-on learning, 360-degree career guidance, globally recognised certifications, and placement guidance.
+Format : Online
+Duration : 6 Months
+Course : Live Online classes + Lifetime recorded videos
+Hiring Partners : 100+ Companies
+EMI Options : Upto 12 months
+Program Fee: ₹ 85,000 (Inclusive of GST)
+
+About GUVI’s DSA Course with Python
+GUVI’s Zen Class - DSA Course with Python empowers learners aspiring for competitive programming and software development. Begin with the basics, understand how computers work, and the fundamentals of programming, including Python's variables, data types, and operators. Get familiarity with algorithm design, recursion, searching, and sorting, which provides you with the skills to solve complex problems efficiently. Our comprehensive course unlocks your potential to gain a strong grip on data structures such as linked lists, stacks, and queues and introduces you to object-oriented programming, trees, and advanced data structures. Catalyze your career profile with the industry-best Python programming skills & Placement Guidance included in the Zen Class Placement wing for your future.
+
+
+GUVI for Corporate
+One-stop Solution for Training, Hiring, and Corporate Social Responsibility!
+Switch to the ultimate suite of handpicked solutions that deliver results at significantly less cost, time, and effort! Upskill with the best training programs, Hire top tech talent, and target your CSR initiatives for maximum impact, all at once.
+Specialized Corporate Training Programs
+Upskill Employees to Drive Business Outcomes
+Bridge the skill gap between your talent and industry standards with the best training program across 20+ verticals tailored to your business needs.
+Completely custom-made journeys
+AI-enabled Assessments to enhance skill application
+Strong pool of mentors
+Rich library of self-paced videos 
+Corporate Hiring
+Streamline Your Talent Pipeline
+Optimize your hiring process with zero-cost talent acquisition by tapping into a diverse and skilled talent pool, reducing both time and expenses.
+Access Pre-Qualified Candidates
+Diversity and Inclusion Goals
+Efficient Hiring Process
+Corporate Social Responsibility Solutions
+Amplify Your Corporate Social Responsibility Impact
+Boost your corporate social responsibility efforts by upskilling your focus communities and enhance your brand's social footprint. Our initiatives are enabled with vernacular delivery to maximize inclusiveness and accessibility.
+Employment-driven programs
+Women-empowerment programs
+Blue-collar workers skilling program
+Hear from Our Satisfied Clients
+Top enterprises and businesses found the perfect solution to their corporate needs. Here’s what they say about their experience. 
+Corporate Training
+“GUVI customises for us”
+Our company regularly partners with GUVI for our training requirements. We are extremely satisfied with the training provided by GUVI and the quality of its mentors. GUVI is very flexible in customizing curriculum. We have received very positive feedback from management teams about the performance of employees.
+-HR at the India Center of a US-Based Insurance Major
+
+“GUVI’s Assistance”
+Our collaboration with GUVI has been extremely beneficial, as GUVI tailored the training programme to our specific requirements and filled the gap. It unquestionably helped us by improving their coding abilities. They offer continuous assistance throughout the training programme.
+-Project Manager at a top Tech Solutions provider
+
+“Flexible Training”
+GUVI is very flexible in customizing curriculum as per our team’s project skillset requirements. We have trained numerous teams across the globe and have received overwhelmingly positive feedback from our employees, so we are delighted to be collaborating with GUVI.
+-Director of SW Engg. at a Multinational Satellite Services Firm
+
+Tech Hiring
+“We found Right Talents”
+It was a great experience working with GUVI. GUVI is a great place to find the right talent, and that too at zero costs involved. Thanks for the support, GUVI.
+-Associate Director at a Top Tech Solutions Provider
+
+“Refreshing Experience from GUVI”
+It was a very nice and refreshing experience to have collaborated with you and GUVI for the first time in our recruitment drive of hiring trained candidates/engineers for our organization. The entire process was very efficiently handled, right from providing candidates with great potential as per our needs.
+-HR Executive at a Top Tech Solutions Provider
+
+“Helped us in closing Requirements”
+Our association with GUVI has been very good so far and it turned out to be a good experience as well. We have closed almost 3 positions through GUVI. We are looking forward to an extended collaboration with GUVI.
+-Founder & CEO at a Top Tech Solutions Provider
+
+HackerKID 
+What is HackerKID and how does it work?
+HackerKID is a next-generation platform that helps kids learn coding in a gamified environment through games like Turtle and Zombieland. Kids can compete with each other through challenges and create clubs to scale their learning. They would also get awards and certificates for completing challenges, thus keeping learning competitive and encouraging.
+Is HackerKID free?
+You can use HackerKID to play, learn and solve a certain amount of problems for free. You can get unlimited access and learning by purchasing a premium subscription valid for 1 year.
+For this premium subscription, you'll get access to Full Game Features Access, Full Video Library, Full Access to Challenges, Gateway to Leaderboard, Additional Awards and Badges, Micro Degree Certificates, and Access to Clubs.
+Who is HackerKID for?
+HackerKID allows kids from ages 7-17 to learn basic to advance coding skills through fun coding games. The games use defined code blocks to teach syntax and programming logic to develop problem-solving skills in them.
+The games are segregated to suit the age and understanding of the kids. As they advance in age, they can level up to other advanced games like HTML, CSS, Javascript, and Coding Pirate.
+Can my kid learn coding with HackerKID?
+Currently, we have a vast library of Python and JavaScript coding videos for kids to learn coding in an easy, fun, and comprehensible fashion.
+After learning from these videos they can practice coding from the IDE inside the platform which helps them to master what they are learning.
+The kids will be playing our interactive games to further sharpen their understanding of programming, thus learning to code better with the right guidance.
+What’s the use of learning to code for young kids?
+HackerKID’s gamified self-paced coding courses allow kids to develop their thinking, mathematical and analytical skills along with good problem-solving abilities.
+The advantages for kids include learning to create websites and build things as they wish. It overall enhances their integration with the tech-oriented world at a young age.
+How can I track my kid's progress in the course?
+HackerKID provides a specially dedicated scoreboard that shows the points awarded during the game and the total time spent on the platform. An overall leaderboard evaluates your kid’s performance and progress among other HackerKIDs.
+Parents can keep an eye on the scorecards and leaderboards to ensure their child remains encouraged and consistent through their learning journey. Moreover, we will send you weekly personalized newsletters wherein you can track your kid's assessment recorded during various activities and skill-based performance.
+Will my kid get any certificates or awards for their performance?
+Yes, definitely. At HackerKID, we provide kids with various awards, badges, and certifications when they complete a designated task, challenge, or level exceptionally well. It helps encourage the kids to keep pushing for excellence and maintain consistency in learning.
+What is a club and how does it work?
+Club is a feature where kids can form a group and interact with one another. This club helps them to assess their learning and builds healthy competition among their friends to have an amazing learning experience.
+
+Small town boy from Tamil Nadu starts vernacular platform GUVI for IT learning
+Arun Prakash was the first graduate in his family. The 33 year old completed his BTech from Sethu Institute of Technology, Virudhunagar, Tamil Nadu. As his family could not afford it, he did not own a computer and brushed up his technical skills by writing programmes on paper and running them on computers at an internet café. Things changed for the better, however, when he impressed the recruiters at Honeywell with his technical skills.
+His professional journey for the next 13 years went off well with stints at Honeywell-Aerospace, KLA-Tencor and Kalido. Then in 2011, Arun, his wife Sridevi (32) and his friend S.P. Balamurugan (32) conceptualised the idea of GUVI. At that time, they were all working together at PayPal and decided to quit to dedicate more time to GUVI. Chennai based GUVI provides a platform to connect budding technologists with industry experts and bridges the skill gap needed in IT companies, by sharing their technical learning as courses in vernacular languages and through a personalised mentorship programme. 
+On the startup's beginnings, Arun says,GUVI started as a volunteering activity when we were working at PayPal in 2011. We started off with videos explaining technical jargon in native languages like Tamil, Telugu, Hindi, Bengali and Kannada. We got amazing feedback from learners not only from India but across the globe like UK, Canada, Germany, France, US, Singapore.” The trio started GUVI with a seed capital of Rs 10 lakh until GUVI was incubated by IITM’s RTBI, an online mentoring or learning platform, focussed on IT-based technical learning in vernacular languages. The startup was then rewarded with a seed fund of Rs. five lakh. GUVI was officially launched in November 2014 and its YouTube channel has gained more than one million views and has more than 5,000 subscribers. Balamurugan holds MCA and MBA from Anna University. Before starting GUVI, he was a technologist at PayPal. Sridevi did her BE in CS from SASTRA University and her career at Honeywell-Aerospace was followed by stints at TCS and PayPal. Customer-acquisition phase GUVI acquired its first paid customer through YouTube. He was from UK and wanted mentorship to learn design patterns in Java. Each course by GUVI is a blend of video lectures that focus on context-based learning, short notes, coding playground, assignment and assessment. The video lectures are in vernacular languages, while the text contents are in English. The platform allows users the option to choose the language of his/her choice.
+The learners use the inbuilt coding playground to practice and upload the assignments. The analytics system tracks the user activity and unlocks new content as they progress in each level. The game engine brings the gamification elements into the system and rewards the user with points and badges as the learner achieves the goal. The platform is hosted in AWS and is built on our very own custom-built web stack,” explains Balamurugan.
+Currently, the technical videos are available in five languages- Tamil, Telugu, Bengali, Kannada and Hindi. Paid courses are available in Tamil, which will be extended to other four languages by 2016. GUVI hosts more than 500 technical videos in vernacular languages. The startup offers courses from data structures, C, C++, Java, Python, ROR to advanced ones on big data, machine learning, R programming, IOS and Android. The charges for online video courses range between Rs 500 and Rs 3,000 and for mentorship, between Rs 15,000 and Rs 35,000. GUVI has partnered with more than 50 colleges in Tamil Nadu, Karnataka, Madhya Pradesh, Odisha and Andhra Pradesh. Currently, 72 people from India, UK, USA and Germany have been mentored. Sridevi says, “All the videos are home grown and created by friends who are experts in the IT industry. However, we have started procuring content from third parties also. The content undergoes many rounds of review by our content curating team.” In the past eight months, GUVI attracted a user base of 14,000, among which 3,600 were paid customers. Majority of the users are from Tamil Nadu, Karnataka, Andhra Pradesh, Odisa and Bhopal. Going forward In 2016, GUVI wishes to add 36 IT courses and 1,000 videos in the five languages. Arun says they are aiming to target 10 per cent of online learning market in India. The iOS and Android app for GUVI will be available soon for on-the-go learning. By 2017, 2,500 videos will be added in eight Indian languages, with five per cent of the content in Arabic and Spanish, according to company projections. And by 2018, GUVI intends to increase the number of videos by 5,000 with 10 per cent of online learning market in Arabic and Spanish and two per cent of the contents in German.
+The revenue generation started from July 2015 and till December, we have achieved an overall revenue of Rs 11 lakh. We expect to achieve Rs 35 lakh by the end of this fiscal year.” Yourstory's take  According to a IAMAI and KPMG report, English language content accounts for 56 per cent of the content on the Internet, while Indian languages account for less than 0.1 per cent. But, a vast majority of India’s population prefers consuming content in their native language. Availability of local language content can open up multiple avenues and opportunities for startups to leverage. Applications like InShorts, Way2News, Gupshup, Hike, Dailyhunt, Reverie’s Language-as-a-Service are focussing more on the local languages to cater to the ‘next billion’ Indian Internet users. The number of local language Internet users in India is growing at 47 per cent year-on-year and has touched 127 million in June 2015, revealed the IAMAI and IMRB International report.
+
+Three Techies in Chennai Have Made It Possible for Students to Learn Programming in Indian Languages
+A website started by three Chennai-based professionals is helping students across India overcome the English language barrier to learn programming, and to launch their careers in the field of information technology.
+GUVI provides video tutorials, college courses, assignments, and practice papers to students who aspire to build careers in the field of information technology, and does so in English and vernacular languages, currently Tamil, Telugu, and Kannada.
+Founded by Chennai-based software professionals Arun Prakash, S P Balamurugan and M Sridevi, GUVI was born four years ago. “We went to our college in Madurai for an alumni meet, and because we were there after a long time, the expectation was that everything — right from the infrastructure to teaching methodology and other aspects of the learning environment – would have improved. But we were disappointed to see that things were actually worse. While the infrastructure had improved, the amount of exposure students received to the outside world remained the same.
+One thing that stood out was the fact that there were many talented students, but they were held back by the language barrier. Their sparse knowledge of English made it difficult for them to follow lessons, particularly those related to computers,” said Arun.
+The trio returned to Chennai and began thinking of ways to help these students. Soon, GUVI was born, initially just as a YouTube channel. “We started a YouTube channel and started uploading instructional videos in vernacular languages. For instance, if you wanted to learn coding or programming in your native tongue, you could do that,” said Arun. The channel soon had over 4,000 subscribers and more than a million views. Many students from Tier 2 and Tier 3 cities wrote in, letting them know that the videos had a positive impact on their lives. This motivated the founders and they decided to quit their jobs to launch an official GUVI platform that would make available mentors, practice material, and job opportunities.
+Arun had 14 years of experience in the IT industry, and had worked with Symantec earlier; Balamurugan and Sridevi had worked with PayPal. Leaving behind this cushioned corporate life, the three of them registered GUVI in November 2014. Soon enough, the start-up received a chance to work with the QEEE project, which aims to teach the Python programming in 150 colleges in India in local languages.
+In order to utilise GUVI, students must create their accounts on the website, and in turn, they gain access to most of the videos free of cost. Students who opt to sign up for special packages, advanced courses, practice assignments, etc., have to pay fees ranging from Rs. 800 to Rs. 3,000. All the videos are made by industry professionals who work in the particular technology field. “If it is a video about Android programming, a developer who has some six years of experience in the field makes it, or provides a voiceover for it. The content is made only by experts who have hands-on knowledge,” said Arun. GUVI has courses on programming (from the beginner to expert levels), databases, web development, and mobile development.
+Students with little knowledge of English or with no background in programming can simply use personal computers to log on to the portal and learn using the available instructional videos. They can also use the various learning exercises to hone their skills. Their performance in these exercises is reflected in a ‘profile’, which is used as a resume by prospective employers to assess their skills. The platform also gives reward points to users who practise and finish their courses, which is again visible on their performance profiles.
+Arun estimates that at least 30,000 students have benefitted from the portal and are now proficient in computer programming. They use PCs to practice what they learn and are equipped with the right set of skills for different jobs. “The pay package these students attract is anywhere between Rs. 2.5 lakh to Rs. 12 lakh annually, depending on their skills and the field. Given that many of these students are first-time graduates from their families, it’s a huge step forward for them.”
+GUVI has a core team of nine people and an extended team of experts to help with content creation. The team also works with colleges in Chennai and Coimbatore so the latter can purchase their content and let their students use it for practice. This helps spread the word about the website too.
+Arun is proud of the fact that the widespread reach of GUVI has helped many talented girls gain access to a platform where they can learn, practise, and challenge assumptions about their expertise. “Once, a hi-tech startup company was hiring from GUVI. Many people assume boys are better at programming than girls. But we shattered this stereotype during the hiring process when the first person selected for the job was a girl. This is a platform where girls too come and showcase their skills and this is mainly because they find role models here. One of these is a girl who we mentored and who now works as a developer. She says if it were not for GUVI, she would have been married and without a job by now,” said Arun proudly.
+GUVI has made knowledge that is useful to many students seeking careers in the IT industry, accessible, regardless of their linguistic backgrounds. With hard work and dedication, there is no reason that they cannot go forward, rise in their careers and fulfil their untapped potential.
+
+IIT Madras-Incubated Startup GUVI Offers Skilling Classes Free Of Cost To Students Affected By COVID-19-Related Shutdowns
+Chennai: IIT Madras-incubated startup GUVI is offering online IT skilling courses to prepare for campus placements free of cost to students who would have been impacted by the nation-wide shutdown due to COVID-19. With final semester examinations fast approaching for engineering colleges, students would now be preparing for campus placements through training centres, some of which have now closed to prevent the spread of COVID-19.
+Students can subscribe on www.guvi.io to access the courses on the platform without having to pay any charges. In addition to students affected by COVID 19-related shutdown, GUVI is offering its platform to all Engineering College students free of cost for a duration of two weeks.
+GUVI, which offers an online platform for students to learn in their mother tongues, is offering specialized courses to upskill students and make them ‘job ready’ without having to leave their house. In addition, more than 100 technologists from top product companies have also volunteered to conduct 30-day free webinar sessions on the top IT Skills that the industry looks for, which the students can learn from home on GUVI’s platform free of charge.
+Online Mentors are also available to support the students to practice the concepts on their online coding platform ‘Code kata.’
+Speaking about this initiative, Mr. S.P. Balamurugan, Co-founder and Chief Executive Officer, GUVI, said, “We need to ensure the safety of students through all possible measures while also ensuring that they have the requisite skills for bright job prospects. GUVI is contributing in a small but significant manner towards these goals, to ensure the students acquire the right skills and are employable. Our hiring partners have also been gracious in supporting us in this initiative”
+The mission of GUVI is to take technology skills to all the deserving students and ensure demography is never a barricade to acquire skills. Towards this, GUVI offers technology skills that are in-demand in the industry in regional languages such as Tamil, Telugu, Kannada, Hindi, Bengali besides English. GUVI is transforming lives by offering tech skills in the language, which the students are familiar throughout their life and is bridging the gap between academia and industry.
+GUVI as an integrated ed-tech platform in vernacular language has a deep penetration in India, with a presence in over 1,000 engineering colleges. It has already upskilled more than 2.14 lakh engineers in latest technology skills such as Python, Java and Machine Learning, among others and help them gain placement in IT firms
+
+Why is GUVI the #1 Best Online Personalized Learning Platform?
+The IIT-M & IIM-A incubated EdTech company – GUVI(Grab Ur Vernacular Imprint) stands at the top to be the Best Online Personalized Learning Platform. Being India’s first vernacular EdTech platform, GUVI is accelerating in the E-learning industry by providing comfortable IT upskilling & virtual tech training services to more than 1.9 Million learners globally. Recently, GUVI was awarded the title – ‘Best Online Personalized Learning Platform’ (Education Innovative awards) by Entrepreneur India.
+When & how did GUVI start itself in the EdTech industry?
+GUVI began its journey in 2014 & It has been playing a key role in the digital era by persistently upgrading the skill profiles of young tech aspirants, early professionals, college students & other IT job seekers through a vernacular approach to upskilling. 
+To understand more about GUVI & its role in the e-learning industry, a few media queries were asked to Mr Arun Prakash, Founder & CEO of GUVI, for winning the Best Online Personalized Learning Platform. His detailed answers regarding GUVI’s journey ahead with an inspiring vision & mission will motivate you also to pursue a tech career for a successful future.
+How do you feel about winning this award: Best Online Personalized Learning Platform from ‘Entrepreneur India’?
+Arun Prakash: It is indeed a proud moment of recognition that acknowledges the quality of upskilling through our virtual platform. Our team shares the joy of imparting skills to every nook & corner with hassle-free online courses available in native languages that cover even rural & remote areas. 
+What is all about the vernacular approach in courses & upskilling in GUVI?
+Arun Prakash: More than 300 self-paced tech courses are instructed in Tamil, Hindi, Kannada, Telugu & more such native languages other than just English, breaking the language barriers in learning skills. GUVI is all about delivering highly effective online learning experiences to its users. Alongside, a power move for tech job aspirants is offered through our Zen class career programs that provide professional career guidance & placement support through 600+ top companies as hiring partners.
+What are the other initiatives or plans of GUVI that benefit the learners?
+Arun Prakash: GUVI team always encourages the progressive thoughts of Ms. Sridevi Arunprakash, & one such thought is “Now is never too late to Upgrade”. GUVI team is all set to launch an empowering initiative, named the SriGeek initiative, to greatly mobilize women with tech skills.
+About 8 grand virtual & IRL events are being launched under this SriGeek initiative from February 2023 to March 2023. Among these the most prominent events include AI-for-women, Tech-talks with women CEOs & CTOs, Empowering skill resources for economically challenged women, & #sheisback program for women to return back to the workforce after a career break.
+How do you think AI-for-women will be a successful initiative?
+Arun Prakash: The motivation to launch ‘AI-for-women’ comes from its successful precedent – ‘AI-for-India’. The success story is written by humongous responses from numerous aspirants from remote areas/villages that found tech-skills accessible & at the same time ‘understandable’. Their active participation in the ‘AI-for-India’ has made GUVI create the Guinness World Record for the ‘Most number of users to take a programming lesson in 24 Hours,’ by beating the previous record by 50 times. Likewise, we aim to recreate the success through ‘AI-for-Women’.
+What is the impact that you wish to make in the future with GUVI?
+Arun Prakash: GUVI has been taking the lead in the EdTech space, upskilling millions of learners worldwide by upholding the idea that language and authenticity should never be a barrier to quality education. Our team constantly strives to make impactful progress among learners by launching the latest tech courses in many more native languages across 150+ countries across the globe. Furthermore, progress around the world is seen through generating awareness of skill proficiency & tech talent over monotonous educational degrees.
+What are your thoughts on expanding the scope of GUVI?
+Arun Prakash: Being a prestigious part of HCL Group, GUVI shares brand partnerships & collaboration with eminent partners like ‘Google for Education’, AICTE, AWS, and Google cloud. We are also offering courses & career programs that are accredited by renowned institutions like IIT Madras, UiPath & NASSCOM. These collaborations have largely democratized the learning experiences to the career aspiring learners online. 
+The online bootcamps of GUVI’s Certified career class provide skill specialization in various trending domains like Full-stack Web Development, Data Science, Machine Learning, Automation Testing, & DevOps. We have focused on getting close to the career dreams of other creative aspirants & launched UI/UX, Digital Marketing, Business Analytics & other development courses. Soon, we’d rise to cover all the tech domains that cover 1.2 million job opportunities in 2023.
+
+GUVI (Grab Your Vernacular Imprint) is an online learning platform that offers personalized learning solutions in more than 300 languages, including English, Tamil, Hindi, Kannada, and Telugu. GUVI's mission is to democratize tech education by providing high-end tech skills to learners in their native languages, and connecting tech career aspirants with the corporate industry. 
+GUVI offers courses in a variety of areas, including deep learning, machine learning, and Angular, as well as a competitive programming playground with over 1,000 questions. The platform tracks student learning activities and builds personalized user profiles, which are shared with recruiters to help connect students with jobs. GUVI also offers career guidance and placement support. 
+GUVI is incubated by IITM and IIM-A, and is supported by Google Launchpad and Jio Gennext. Courses are available for free learning, but certification comes at a nominal fee.
+
+Arun Prakash is an Indian entrepreneur known for his role as the founder and CEO of GUVI, a prominent startup in the edtech industry offering quality tech education in Indian vernacular languages.His strategic vision and leadership have positioned GUVI as a leading player and pioneer in the field of vernacular educational technology.
+
+about ZEN Zen Class is one of the industry’s leading Project Based Full Stack Development Program that promises 100% Job Placement Support on completing the course. Conducted by an IIT Madras incubated company & designed by our Founders(Ex-Paypal Employees) also offers mentoring through experts from companies like Google, Microsoft, Flipkart, Zoho & Freshworks for placing learners in top companies with high salaries. This Full stack Developer Program is designed to cover every technology in depth that leads to become a successful Full Stack Developer
+
+About GUVI
+Founded in: 2014 (10 yrs old)
+Ownership :Private
+India Employee count: 501-1k
+Global Employee count: 501-1k
+Headquarters: Chennai, Tamil Nadu, India
+Office Locations: Chennai
+Type of Company: Startup
+Nature of Business : Product, B2C, B2B
+
+GUVI – India’s Premier Tech-Powered Vernacular EdTech Platform, incubated by IIT-M, IIM-A, and a prestigious part of the HCL group, leads the way in tech upskilling in regional & international languages. With over 2.5 million global learners, GUVI stands as a beacon of cutting-edge solutions in tech education. Our strategic partnerships with ‘Google for Education’, AICTE, AWS, Google Cloud, IIT-M Pravartak, UiPath, and NASSCOM have revolutionized global tech education. Recognized among the Top 10 companies with initial licenses from OpenAI, GUVI continues to pioneer advancements in AI-driven learning. Trusted by 1000+ industry-leading companies through GUVI-for-Corporates(GFC) and HyreNet - An AI-powered skill assessment tool, GUVI aims to empower diverse learners to reach their full potential and sets the path to tech-driven excellence.
+Vision: To shape lives by bestowing high-end tech skills to learners in their native languages & Connect the tech career aspirants with the corporate industry.
+Mission: To democratize tech education worldwide by meeting the standards of the EdTech industry.
+
+Founders and Board of Directors of GUVI
+Who are the CEO, Founders and Directors of GUVI?
+Murugasan Arun Prakash, Co-Founder & CEO, is a founder of 1 company and on the board of 1 company. 1 email.
+Balamurugan SP, Co-Founder, is a founder of 1 company and on the board of 1 company. 1 email.
+Sridevi Arunprakash, ex-Co-Founder, is a founder of 1 company and on the board of 1 company. 1 email.
+Abhinav Ghosh, Director, is on the board of 1 company and an Angel investor in 1 company.
+Pawan Kumar Danwar, Director, is on the board of 1 company.
+
+How many employees does GUVI have?
+GUVI has 484 employees as of Aug 23. The total employee count is 191.6% more than what it was in Aug 22.
+
+Competitive landscape of GUVI
+GUVI has a total of 15 competitors and it ranks 1 st among them. 
+
+GUVI is an online regional-language based education technology company incubated at the Research Park in the Indian Institute of Technology, Madras, with support from the Indian Institute of Management, Ahmedabad. What started as a small initiative has since spawned a company. The “edu tech” platform has been associated with at least 1,000 colleges.
+Legal Name : GUVI Geek Network Pvt Ltd
+Headquarters : Chennai, Tamil Nadu, India
+Founding Date : 2014 No. of Employees : 61 to 100 
+Core Team : 1.Balamurugan SP Co-Founder2. Arun Prakash M Co-Founder & CEO 3. Sridevi Arunprakash Co-Founder
+
+Frequently Asked Questions
+1 . How to get certified?
+Ans: To get certified in a course, you need to finish all the quizzes and submissions(if any) successfully with 100% progression.
+2 . Progression is 100% but the certificate is not loading/generating. What should I do?
+Ans: Please clear browser history and then try again. Logout and login and then try again.
+3 . I don’t know the answer for this quiz, can I still get certification?
+Ans: Please make sure you complete the quiz with the correct answer and you can try answering it for an unlimited number of times.
+4 . How can I change my name on my certificate / profile ?
+Ans: Please follow the steps : Go to your profile -> Edit your name -> Refresh your browser (CTRL + F5 ) -> Regenerate your certificate.
+5 . Where can I find the certificate? Where is the get certified option?
+Ans: You can find the ‘Get Certified’ option at the end of the Lessons in the table of contents. it will be shown only after completing all the lessons with 100% progress.
+6 . Cannot download certificate. blank screen appears
+Ans: The certificate will be automatically downloaded. Please check your downloads folder, the certificate will be downloaded as a pdf file. Please try Google chrome for better results.
+7 . Course X is not available in Y language?
+Ans: I’m really sorry about but we are trying our best to bring courses in as many regional languages as possible. I’ll forward this to the concerned team and they will look into this. Be assured that it will be available in the future.
+8 . Any offer for students?
+Ans: Yes, We are giving Deep learning courses taught by IITM certification for just 1000 only for students.
+9 . What can I do with GEEKOINS?
+Ans: GEEKOINS can be used to purchase courses and purchase ‘run counts’ which will be very useful in CODEKATA.
+10 . What is your refund policy? / I want refund for my course.
+Ans: You can cancel any purchase you made with our courses within the first 7 days if you’re not satisfied.
+And the refund will be credited to your account in 3 business from the day we refund.
+11 . Where can I find the courses?
+Ans: Please visit this link https://www.guvi.in/courses to view our course library.
+12 . I’m not able to login. Please help.
+Ans: Please refresh your browser CTRL + SHIFT + R if Windows and CMD + SHIFT + R if Mac. and then try again. Also, try it in a different browser.
+
+How much does GUVI cost
+GUVI costs around ₹123,900. On the lower end, some GUVI courses like Full Stack Development cost ₹89,999.
+
+What courses does GUVI teach.
+GUVI offers courses like Business Analytics & Digital Marketing, Data Engineering, Full Stack Development, Full Stack Java Developer and 1 more.
+
+Where does GUVI have campuses.
+GUVI teaches students Online in a remote classroom.
+
+Is GUVI worth it.
+GUVI hasn't shared alumni outcomes yet, but one way to determine if a bootcamp is worth it is by reading alumni reviews. 0 GUVI alumni, students, and applicants have reviewed GUVI on Course Report  you should start there!
+
+Is GUVI legit.
+So far, it's hard to say because GUVI has no reviews.
+
+GUVI is an online platform to learn computer programming based in India. It offers free and paid coding courses to students and working professionals in Indian languages such as Hindi, Telugu, Kannada, Bengali, Tamil, and in English.
+
+
+Python Course
+Accelerate your Career
+IITM Pravartak certified Python course to help you learn the basics of Python, the most powerful, versatile and in-demand programming language today. Start from scratch, and gradually move towards the level where you can write programs to gather, clean, analyze, and visualize data.
+What is a Python course?
+A Python course is a structured program that teaches individuals how to write, read, and understand code in the Python programming language. The course covers various topics, including basic programming concepts, data types, control structures, and functions.
+Which is the best online Python course?
+The best online Python course is one that matches your learning goals, experience level, and preferred learning style. At GUVI, our Python course is designed for beginners with no prior coding experience, making it a great choice for those looking to start their Python journey. You can access the complete course modules for FREE.
+How to learn a Python course?
+To learn a Python course, enroll in an online program like GUVI's self-paced free Python course, which provides interactive lessons, quizzes, and assignments. You can also find resources like Python documentation, books, and video tutorials to supplement your learning.
+Why learn Python courses online?
+Learning Python courses online allows you to access high-quality educational resources from anywhere in the world, at any time that suits you. Online courses also tend to be more affordable than traditional classroom-based programs and offer flexible learning options to fit your schedule.
+What are the benefits of learning Python from GUVI?
+Learning Python from GUVI provides several benefits, including:
+Beginner-friendly curriculum designed for those with no prior coding experience
+Self-paced program with interactive lessons, quizzes, and assignments
+IIT-M certification upon completion to showcase on your resume.
+FREE access to complete course modules, pay a nominal fee for IITM Pravartak certified Python certification.
+Access to an online community for support and networking opportunities
+Affordable pricing and flexible learning options.
+
+JAVA Course Overview
+Master all the fundamentals of Java programming and learn to code like a pro with this Java online course that has been designed and taught by industry experts with years of experience in tech. Throughout this course, you will learn major Java concepts such as object-oriented programming (OOP) using Java, JSP, Servlets, and MySQL, along with design principles, best coding practices, and how to write code like a professional developer. You will be able to implement all that you learn with real-world projects and build a great portfolio that will help you excel at interviews. After completing this course, you will gain a certificate that will help your resume stand out from others when applying for developer roles.
+What is a java programming course?
+This Java online course teaches you all the fundamental concepts that help you master Java programming and build scalable and secure software applications, creating a well-established career as a successful software developer. In a Java programming course, you will learn concepts like object-oriented programming (OOP) using Java, JSP, Servlets, MySQL, and much more that will help you scale greater heights in your tech career.
+How to learn java programming online course?
+You can start learning Java at any time and from anywhere you wish with this Java programming online course as it is self-paced. You will be able to master all the essential Java concepts with this curriculum, designed and taught by experts along with various modules and tests. All you need is dedication and focus toward learning and building your career.
+What is a java certification course?
+A Java certification course is an online course that awards you with a globally recognized, job-ready certificate upon its completion. You are able to master all of the core concepts of Java programming and learn how to build scalable, extensive, and secure software applications along with gaining a certificate to showcase your newly gained skills to your future employers. Such a certificate is like a validation of your Java coding skills and reflects on your competency in the tech world.
+Why learn Java?
+Learning Java is extremely beneficial as it is one of the most extensively used programming languages in the world and has always been an in-demand skill to have. Java is known to power Android, which is the most widely used operating system across the globe and hence its power cannot be undervalued. It has been greatly used to construct software applications, data centers, scientific supercomputers, cell phones, game consoles, and much more.
+Why choose Guvi for a Java Programming Course?
+The Java programming certification course offered by GUVI is considered to be one of the best in the industry as it is designed and taught by industry experts, is completely self-paced, and rewards you with a globally recognized, job-ready certificate. With this course, you will learn all the fundamental concepts of Java programming such as JSP, Servlets, MySQL, object-oriented programming (OOP) using Java, and much more that will help you scale greater heights in your tech career.
+
+Mobile Hacking
+Accelerate your Career
+Master key mobile hacking techniques and technologies from scratch through this comprehensive online mobile hacking course with global certification. Learn to secure mobile devices and networks with self-paced learning and emerge as a skilled mobile security expert with a strong footing in the ethical hacking domain.
+What is the overview of GUVI’s Mobile Hacking certification course?
+The Mobile Hacking course is designed to provide you with a comprehensive understanding of mobile security vulnerabilities and hacking techniques. You’ll learn to use various tools and technologies that are needed to protect mobile devices from potential threats or attacks while developing a good understanding of the mobile security infrastructure
+Why learn the Mobile Hacking course?
+In today's digital landscape, where mobile devices play a crucial role in our personal and professional lives, it is essential to have the knowledge and skills to protect against potential threats. You can easily gain the necessary knowledge, resources, and methodologies by learning this mobile hacking course from GUVI.
+Why choose GUVI for learning the Mobile Hacking course?
+There are numerous reasons to learn the mobile hacking course from GUVI. With GUVI, you can master mobile hacking from a beginner to an advanced level quickly and at an affordable cost. You will learn through a comprehensive curriculum that offers in-depth tutorials from industry experts, which come with lifetime access. You’ll also gain a globally recognised certification from an IIT-M and IIM-A incubated company, which will be a huge add-on during job search and skill display.
+What are the benefits of learning Mobile Hacking certification?
+There are numerous benefits to learning mobile hacking with certification. GUVI provides a globally recognized certificate in mobile hacking, which will significantly boost your career prospects in ethical hacking and cybersecurity domains by showcasing your expertise in mobile hacking and the ways to counter potential attacks. You’ll gain sought-after skills and become an expert in mobile hacking, enabling you to get better job opportunities and higher credibility.
+Is the Mobile Hacking course difficult to learn?
+Not at all! The Mobile Hacking course is designed for both beginners and professionals, breaking down complex hacking techniques and topics into easily understandable modules.
+How long does it take to learn Mobile Hacking?
+The Mobile Hacking Course is completely self-paced, allowing you to complete it at your convenience. Most learners are able to complete it within a few weeks, depending on their dedication and prior knowledge. However, consistent practice across a couple of months is needed to completely master the course learnings.
+How much does the Mobile Hacking certification Course Cost?
+The Mobile Hacking certification course comes at a competitive price that ensures everyone can learn at a very affordable price.
+
+C Programming Tamil
+Accelerate your Career
+Learn to write strong and efficient code in C with this beginner-friendly certification course in C Programming in Tamil and become industry ready.
+Master C Programming in Tamil from its very foundation to its advanced concepts with this comprehensive and beginner-friendly C Programming course in Tamil that has been crafted and taught by industry experts with years of experience. Throughout the course, you will learn important concepts such as Scope and Lifetime, Operators, Branching and Loops, Command line arguments, File operations, Pre-processor directives, Typedef, and much more. The practical approach throughout the course will enable you to practice and apply what you learn by practicing on our award-winning platforms. The course is completely self-paced and you will gain a globally-recognized certificate at the end to showcase the skills you gained.
+What is C Programming?
+C Programming is a general-purpose, procedural programming language that was developed in 1972 by Dennis Ritchie at Bell Labs. It is widely used for developing operating systems, device drivers, and other high-performance software. C programming language is fast, efficient, and provides low-level memory access, making it suitable for system programming and embedded systems. Most of the applications and operating systems that we use today have their roots written in C, hence it’s a no-brainer that it’s a must-know language for all developers.
+Why learn C Programming in Tamil ?
+Learning C programming in Tamil is beneficial for several reasons. Firstly, it is a fundamental language that lays the groundwork for other languages. Secondly, C is a high-performance language used in systems programming and embedded systems. Lastly, learning C enhances problem-solving skills and promotes efficient programming practices which are all essentials for a good developer.
+Why choose GUVI for learning C Programming online course in Tamil ?
+The C Programming course in Tamil offered by GUVI is an industry leader and will allow you to master coding in C within weeks. In this course, you will learn C programming in Tamil from industry experts through in-depth sessions and quiz exercises. This course is designed to provide a strong foundation in C programming concepts and enable you to develop efficient and reliable code. Join GUVI to kickstart your C programming journey today and gain the skills to become job ready.
+What are the benefits of learning a C Programming certification course in Tamil ?
+Learning via an online C Programming course with certification in Tamil offers numerous benefits, including the ability to develop efficient and robust computer programs with ease and an increased standing in front of potential employers. C is a foundational programming language used in various fields, making it an essential skill to possess. Additionally, mastering C programming enables professionals to work on low-level system development, firmware, and embedded systems, among other things.
+Is C Programming difficult to learn?
+Learning C programming can be challenging for beginners due to its syntax and low-level nature, but with practice, patience, and a learning partner like GUVI it can be a cakewalk Like any programming language, it requires time and effort to master, but through proper training by our industry experts and a series of quizzes, you can master it and code like a pro in no more than a few weeks.
+
+AWS
+Accelerate your Career
+This AWS Training and Certification course is vital for every individual aspiring to become an AWS Certified Solutions Architect and will equip you with all the knowledge and skills needed to achieve the same.
+This AWS course has been curated and taught by AWS-certified mentors as well as industry experts so that you can master all the key AWS architectural principles such as VPC, IAM, EC2, SNS, as well as SQS and succeed in your efforts of becoming an AWS Certified Solutions Architect. Certified by NASSCOM, this AWS training and certification course is aligned with the latest AWS exam and consists of all the new changes in SAA-C02 along with the concepts of SAA-C01. Learn at your own pace and prepare for the exam of AWS Certified Solutions Architect Associate along with earning a globally recognized certificate upon completion of the course.
+What is an AWS course?
+An AWS course is an online training program that equips you with all the skills necessary to efficiently work with the AWS cloud environment and successfully clear the AWS Certified Solutions Architect Associate exam. You will be able to master all the key AWS architectural principles such as VPC, IAM, EC2, SNS, SQS, and much more.
+Who can learn the AWS Course?
+This AWS training and certification course is for any individual with a focus on successfully clearing the exams of AWS Certified Solutions Architect Associate/Developer Associate/ SysOps Administrator Associate or students and freshers as well as working professionals aiming to build/advance their career in Cloud Computing with a focus on AWS.
+What is the AWS Certification course?
+The AWS certification course is an online, self-paced program that helps you to prepare for the AWS Certified Solutions Architect and other exams so that you can build your career as an AWS cloud expert. This program equips you with the latest skills in AWS taught by AWS-certified mentors as well as industry experts and you get a globally recognized certificate upon completion of the course.
+How can beginners learn an AWS course?
+If you are a beginner and wish to learn all the AWS fundamentals and become an AWS Certified Solutions Architect, then one of the best ways is to enroll in an AWS beginner course that will take you from level zero to an expert comprehensively. This AWS course offered by GUVI is self-paced, curated, and taught by AWS-certified mentors and is always updated with the latest updates made by Amazon.
+How to take the AWS Certification Exam?
+In order to take the AWS Certification Exam, you must sign in to AWS and register for the examination. The AWS Certification exams are mostly administered at Kryterion testing centers in more than 750 locations worldwide. Now, you also take the AWS Certification Exam online at home in a proctored environment.
+Which AWS Certification is best?
+As different AWS Certifications assess different sets of skills, most of them are the best for and used to certify their specific skill sets. But the internet and salary ratings favor some over others also due to the job vacancies and the field they belong to. They are AWS Certified Solutions Architect ~ Associate, AWS Certified SysOps Administrator ~ Associate, and AWS Certified Developer Associate.
+Why learn AWS?
+In our day-to-day lives, we make use of cloud computing services extensively and so do all kinds of corporations ~ major or minor for net banking, social media, storage purposes, and much more. This proves that we are going to heavily rely on cloud services in the future and hence the career prospects and job opportunities will always be soaring high. Hence, learning about the AWS environment will not only benefit cloud professionals and students but also individuals or organizations that want to boost their business.
+What job opportunities are available after learning AWS?
+There are boundless high-paying job opportunities and prospects available after learning and being AWS certified such as Cloud Architect, Cloud Developer, Cloud Systems Administrator, Cloud DevOps Engineer, Cloud Security Engineer, Cloud Network Engineer, Cloud Data Architect, etc.
+What can I learn from AWS?
+AWS helps learners understand and build credible, high-quality could computing solutions to real-world problems, and an AWS Certification enriches them with confidence and credibility by endorsing their cloud expertise with an industry-recognized certificate and helps organizations to pick out skilled professionals that can lead cloud initiatives leveraging AWS.
+Who can take this AWS course?
+This AWS certification training course can be taken up by any individual aiming to clear the AWS Certification exams and build their career as an AWS Certified Solutions Architect Associate, AWS Certified Developer Associate, AWS Certified SysOps Administrator Associate and many such high-paying, major roles. This AWS course is also for students, freshers and working individuals that wish to broaden their career aspects and add AWS cloud computing to their bag of skills.
+
+Angular Course English
+Accelerate your Career
+This Angular Certification Course will help you master the skills of building a full-featured web app from scratch by gaining proficiency in the essentials of Angular.
+Angular English Course Overview
+This beginner-friendly Angular course will equip you with all the tools necessary to build highly responsive and complex single-page applications. Learn about the fundamentals of this popular JavaScript framework by implementing them yourself with the help of industry experts. You will learn about the component-based architecture of Angular along with dependency injection, two-way data binding, comprehensive routing, etc with this Angular certification course. Along with that, you can learn at your own pace, anytime and anywhere with lifetime access and also earn a globally recognized certificate upon completion of the course.
+What is Angular training?
+An Angular course will train you to effectively grasp front-end web development with Angular and create highly scalable and responsive single-page web applications. You will gain an in-depth knowledge of Angular fundamentals along with how to implement them.
+Why is the Angular course popular?
+The Angular certification courses are popular because Angular itself is a highly popular JavaScript front-end framework that offers fast responsiveness and a rich user experience. It allows one to build single-page applications as well as full-fledged, large-scale web applications for huge platforms. This Angular course for beginners will teach you all that you need to become a pro with Angular and build real-world projects.
+What are the skills I get after learning Angular?
+After learning Angular, you will be proficient in a very well-known aspect of web development being able to create responsive and high-quality web applications. You will be able to code with Angular, learn to use Git, make custom Angular components, dependency injection, two-way data binding, comprehensive routing, as well as develop web pages and applications.
+How to become an Angular Developer?
+In order to become an Angular Developer, you need to be proficient with the Angular framework, HTML and CSS, RESTful APIs, Typescript, RxJs, npm, and be able to use the GitHub repository. You must be confident in building highly responsive and scalable web applications using Angular and these other skills to be a successful Angular Developer. And a great way to start would be with this Angular course for beginners that will give you a tight grasp of the Angular framework and how to implement it efficiently to build great web apps.
+How do beginners learn an Angular course online?
+There are multiple Angular certification courses for beginners available online, all you need to do is understand your requirements and choose one accordingly. For instance, this course offered by GUVI is one of the best Angular courses available online and is curated as well as taught by industry experts. Additionally, you can learn at your own pace, anytime, anywhere, and gain a globally recognized certificate to showcase your skills upon completion.
+
+Dark Web
+Accelerate your Career
+Learn and master all the secrets behind the dark web with this comprehensive certification course that will deep dive into all of its basic as well as more advanced concepts.
+Dark Web Course Overview
+In this beginner-friendly dark web course, you will learn and implement all of its fundamental concepts with guidance along with top tricks from industry experts who have experienced it all first-hand. Throughout this course, you will be mastering concepts such as how to properly and securely discover data and websites on both the dark web and clear web, access hidden (onion) services, communicate privately and anonymously using instant messages and email, manually use end-to-end encryption to protect your privacy, sign and verify files, share files anonymously, transfer funds anonymously using cryptocurrencies such as Bitcoin and much more exciting stuff. The course is completely self-paced and you will gain a globally-recognized certificate at the end to showcase the skills you gained to stand out in interviews.
+What is a dark web course?
+A dark web course teaches individuals how to navigate and use the dark web as well as its inner workings. The dark web is a part of the internet that is not indexed by search engines and is often associated with illegal activities. Dark web courses can cover topics such as anonymous browsing, Tor networks, and cryptocurrency transactions. Hence, it is an extremely important skill to have for tech professionals today.
+Why learn a dark web course?
+Learning about the dark web can be beneficial for individuals interested in gaining a deeper understanding of the internet and its complexities. The dark web is often associated with illegal activities, but it can also be used for legitimate purposes, such as protecting online privacy and anonymity. By taking up a dark web course, individuals can learn about the technical aspects of this hidden portion of the internet and gain in-demand skills in cybersecurity as well as online safety.
+Why choose Guvi for learning the dark web?
+The dark web course offered by GUVI provides a comprehensive beginner to advanced approach with structured learning material, access to experienced industry experts, and award-winning practice platforms. Moreover, GUVI offers flexible learning options that cater to the individual needs and schedules of learners. With this dark web course from GUVI, learners can gain a deep understanding of the dark web and its associated risks and benefits.
+
+Web Development Course Bundle
+Accelerate your Career
+We have managed to come up with a holistic plan - Grow 10X Web development courses with certificates bundle. It's an essentials bundle package with 10 web development courses for the price of just one! Our most-selling G10x pack contains the best online web development courses with certifications.
+Web Development Bundle Course Overview
+There are many web development courses available online, which offer a basic curriculum for a hefty price tag, our web-development bundle, on the other hand, offers the complete development approach, so that you're not missing out on anything. This self-paced course was designed for you to either watch in order, or to skip around module by module.
+What is a Web Development Course Bundle?
+It's a web-development essentials plan with 10 courses for the price of just one! With this bundle, you can get certified in: Computational Thinking, Modern HTML & CSS, JavaScript, Angular , Flask, Redis with Python Restful API, MongoDB, MySQL, AWS & Machine learning.
+Why choose this Web Development Course Bundle from GUVI?
+We update this course frequently to ensure that you learn the most up-to-date skills. There is no wasted time here. This is the course that outlines all the topics, and a defined web development roadmap to becoming a skilled web developer.
+What are the benefits of learning a Web Development Course?
+This is a course bundle that supersedes all levels. Even if you're a novice, you'll go from absolutely zero: to where you know how the internet works. To Mastery: run supervised/unsupervised ML algorithms for web applications and all the other essential web technologies.
+What are the requirements to learn a Web Development course?
+There are no such prerequisites. Just equip yourself with a sound system & working internet, and you're good to go.
+What will I learn from the GUVI Web Development Combo Course?
+You'll learn a foundational understanding of the Web-development Ecosystem, the building blocks of a website & what technologies it takes to write a fully functional, visually enriched website.
+
+I’m from a non-engineering background or new to programming. Can I take this course?
+We aim to create job opportunities for all students. We offer a PreBootcamp to assess your readiness for the Zen Bootcamp. If you need extra preparation, our mentors will guide you with additional GUVI lessons.
+What will be tested to clear the PreBootcamp test?
+Basic Level Questions: This will help us identify your ability to read and debug the given code. Your comfort level around understanding loops & conditional statements will be evaluated.
+Advanced Coding Question: Here we will try to understand your current knowledge of coding in order to place you in the classroom & customize the program schedule to your needs.
+Basic Aptitude: We will analyze your basic communication & aptitude skills as early as possible. These skills will help us in arranging the mock interviews after the Main Bootcamp.
+Which companies will I be given opportunities under Placement Guidance?
+You will have potential opportunities with over 1,000 companies through our Placement Guidance, including prominent names like PayPal, Freshworks, Zoho, JusPay, DBS, Scapic, OrangeScape, and many more.
+What is the duration of this course?
+Online Live Batch: 3 Months (Monday to Friday) / 5 Months (Saturday & Sunday)
+What is the capstone Project all about and how will it help me?
+as part of the Capstone Project, the participants are required to build their own application by the end of the course which can be added to their GitHub profile. With an emphasis on learning by doing, the bootcamp course helps participants working on building their application from the 1st week itself. At the end, the participant builds his own application understanding the software development process, code review process, and also learns the best practices in coding and utilization of Cloud & DevOps tools etc.
+What is MEAN and MERN stack?
+MEAN - MongoDB, ExpressJs, AngularJs & NodeJs
+MERN - MongoDB, ExpressJs, ReactJs & NodeJs
+What is meant by Full Stack Development Course?
+The Full-stack Development Course systematically covers the fundamental technologies essential for aspiring Full Stack Developers. It comprises five distinct segments: Frontend, Backend, Database, other essential technologies, and Debugging/Version Control.
+Will I get a refund after joining the Main Bootcamp?
+No, you will not be able to claim the refund once you've entered the Main Bootcamp phase.
+How do I complete this course?
+Being a project-based curriculum, every student has to work & submit the projects with our Industry experts’ guidance. MCQs & assessments help evaluate your performance. After the successful completion of the course, GUVI will grant a globally recognized course completion certificate.
+What is the Seat Blocking Procedure? Any Pre-booking charges?
+You can book your seats with a ₹8,000 Pre-book charge. It is a refundable amount. It is for booking your slot so that you may not miss your preferred batch.
+What if I miss any live classes? How long do I have access to the learning contents and practice platforms?
+Guvi provides you with a recording of every class with unlimited access to all the practice platforms. So, you barely get a chance to miss out on anything while being a Guvian!
+who is UIUX for?
+Anyone aspiring to explore the world of user interface & user experience-driven products & keenly interested in developing their creative thinking and problem-solving abilities is welcome to enroll in this course.
+how to clarify doubts?
+Our 24x7 support team is always within your reach, where you can clarify your doubts within 24 hours timespan. In addition, you also have GUVI Forum where you can ask your doubts and get them clarified.
+What is Data Engineering?
+Data engineering is the technique of designing and creating systems that can efficiently collect, store, and interpret data for analytical or operational uses. It is an aspect of data science that focuses on practical data applications.
+Who is eligible for this program?
+There is just one eligibility criteria for ZEN Class: Students & Working Professionals seeking an opportunity to upskill their Data Engineering proficiency for faster career growth. To keep the chances fair, we provide a PreBootcamp session for Zen Class Interested students to understand how ready they are to be a Data Engineer. A Small Eligibility test is conducted right after the Pre-Bootcamp will provide you with a final ticket to be part of Zen Bootcamp.
+What tools are covered in this data engineering program?
+The tools & technologies covered in this program include Python, SQL, Shell Script, Orchestrator, Cloud Services, Big Data, Data Cleaning, Data Visualization, etc. 
+
+What is Devops Course?
+DevOps is a software development methodology that combines software development (Dev) with information technology operations (Ops) participating together in the entire service lifecycle, from design through the development process to production support.
+What is System Requirements?
+Processor: I5/I7, Ram: 8GM &above HDD: ,500GM & above or SSD(prefered)
+Installation Tools Required of Devops Tools?
+Vagrant Box,Register & creation of AWS, Github Accounts,GIT CLI installation
+Who is Eligible for this  Master DevOps Program with GUVI Certification Course?
+The only eligibility criteria that we have for the  GUVI DevOps is for the Graduates & working professional, is seeking opportunities to upskill for faster career growth. To keep the opportunities fair, we provide a PreBootcamp session for Zen Class Interested students as a way to understand how ready they are to be a DevOps. A Small Eligibility test is conducted right after the PreBootcamp will provide you with a final ticket to be part of Zen Bootcamp.
+I’m from a non-engineering background or New to programming. Am I eligible for this course?
+With the objective of creating as many job opportunities for our students, we do intend to help every student who is willing to “make the extra catching up needed” in terms of programming & Development logic. We assess this via a comprehensive PreBootcamp where you can understand how ready you are for the Zen Bootcamp. In case you don’t make the eligibility,our mentors will charter the course aheads for you with some Guvi Lessons.
+What is the capstone Project all about and how will it help me?
+As part of the Capstone Project, the participants are required to build their own application by the end of the course which can be added to their GitHub profile. With an emphasis on learning by doing, the bootcamp course helps participants working on building their application from the 1st week itself. At the end, the participant builds his own application understanding the software development process, code review process, and also learns the best practices in coding and utilization of Cloud & DevOps tools etc.
+
+Guvi stands as a testament to the transformative power of online education in equipping individuals with the skills they need to thrive in today's digital world. Through its commitment to quality, accessibility, and innovation, Guvi continues to empower learners and contribute to the growth of the global tech ecosystem.
+This overview captures the essence of Guvi, its mission-driven approach to education, and its impact on learners and the tech industry.
+
+Guvi is a pioneering force in the ed-tech landscape, dedicated to making quality technical education accessible to all. Its innovative approach, diverse course offerings, and strong community support make it a valuable resource for anyone looking to build or advance a career in technology. As Guvi continues to grow and evolve, it remains committed to empowering learners and contributing to the development of a skilled and inclusive tech workforce.
